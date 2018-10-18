@@ -1,0 +1,409 @@
+[05/08/18, 14:50:34:102] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[05/08/18, 14:50:34:102] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 05/08/18, 14:50:34:099      ║
+[05/08/18, 14:50:34:103] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[05/08/18, 14:50:34:178] info: Initializing local storage instance at path: /home/bella/.config/Slack/local-settings.json
+[05/08/18, 14:50:34:486] info: cld3::loadModule: loading cld3 module
+[05/08/18, 14:50:34:505] info: cld3Loader::loadModule: running environment is NODE
+[05/08/18, 14:50:34:505] info: cld3Loader::loadModule: constructed module object for runtime
+[05/08/18, 14:50:34:628] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/08/18, 14:50:34:628] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/08/18, 14:50:34:632] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/08/18, 14:50:34:633] info: SSBIntegration: Main window preload script loaded 800.069938
+[05/08/18, 14:50:37:340] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/08/18, 14:50:37:343] info: Store: MAIN_WINDOW_SHOWN
+[05/08/18, 14:50:37:645] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:50:37:645] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:50:37:646] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:50:37:778] info: postLoadTaskSetup: Desktop client fully loaded
+{
+  "loadedTime": 7864.520171
+}
+[05/08/18, 14:50:37:829] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9F21EKE2"
+}
+[05/08/18, 14:50:37:832] info: Store: SELECT_CHANNEL D9ECLDGTV
+[05/08/18, 14:50:37:833] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[05/08/18, 14:50:37:833] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/08/18, 14:50:37:977] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    208,
+    81
+  ],
+  "size": [
+    1024,
+    768
+  ]
+}
+[05/08/18, 14:50:37:978] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/08/18, 14:50:37:978] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/08/18, 14:50:38:037] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9F21EKE2",
+  "theme": {
+    "active_item": "#2D9EE0",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#60D156",
+    "badge": "#DC5960",
+    "column_bg": "#F8F8FA",
+    "hover_item": "#FFFFFF",
+    "menu_bg": "#F8F8FA",
+    "text_color": "#383F45"
+  }
+}
+[05/08/18, 14:50:38:450] info: Raw Locale list: ["bg_BG.utf8","C","ca_AD.utf8","ca_ES.utf8","ca_ES.utf8@valencia","ca_FR.utf8","ca_IT.utf8","cs_CZ.utf8","C.UTF-8","da_DK.utf8","de_AT.utf8","de_BE.utf8","de_CH.utf8","de_DE.utf8","de_LI.utf8","de_LU.utf8","en_AG","en_AG.utf8","en_AU.utf8","en_BW.utf8","en_CA.utf8","en_DK.utf8","en_GB.utf8","en_HK.utf8","en_IE.utf8","en_IN","en_IN.utf8","en_NG","en_NG.utf8","en_NZ.utf8","en_PH.utf8","en_SG.utf8","en_US.utf8","en_ZA.utf8","en_ZM","en_ZM.utf8","en_ZW.utf8","es_AR.utf8","es_BO.utf8","es_CL.utf8","es_CO.utf8","es_CR.utf8","es_CU","es_CU.utf8","es_DO.utf8","es_EC.utf8","es_ES.utf8","es_GT.utf8","es_HN.utf8","es_MX.utf8","es_NI.utf8","es_PA.utf8","es_PE.utf8","es_PR.utf8","es_PY.utf8","es_SV.utf8","es_US.utf8","es_UY.utf8","es_VE.utf8","fr_BE.utf8","fr_CA.utf8","fr_CH.utf8","fr_FR.utf8","fr_LU.utf8","hu_HU.utf8","id_ID.utf8","it_CH.utf8","it_IT.utf8","ja_JP.utf8","ko_KR.utf8","nb_NO.utf8","nl_AW","nl_AW.utf8","nl_BE.utf8","nl_NL.utf8","pl_PL.utf8","POSIX","pt_BR.utf8","pt_PT.utf8","ru_RU.utf8","ru_UA.utf8","sv_FI.utf8","sv_SE.utf8","th_TH.utf8","tr_CY.utf8","tr_TR.utf8","uk_UA.utf8","vi_VN","vi_VN.utf8","zh_CN.utf8","zh_HK.utf8","zh_SG.utf8","zh_TW.utf8",""]
+[05/08/18, 14:50:38:451] info: Filtered Locale list: ["bg_BG","ca_AD","ca_ES","ca_ES","ca_FR","ca_IT","cs_CZ","da_DK","de_AT","de_BE","de_CH","de_DE","de_LI","de_LU","en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW","es_AR","es_BO","es_CL","es_CO","es_CR","es_CU","es_CU","es_DO","es_EC","es_ES","es_GT","es_HN","es_MX","es_NI","es_PA","es_PE","es_PR","es_PY","es_SV","es_US","es_UY","es_VE","fr_BE","fr_CA","fr_CH","fr_FR","fr_LU","hu_HU","id_ID","it_CH","it_IT","ja_JP","ko_KR","nb_NO","nl_AW","nl_AW","nl_BE","nl_NL","pl_PL","pt_BR","pt_PT","ru_RU","ru_UA","sv_FI","sv_SE","th_TH","tr_CY","tr_TR","uk_UA","vi_VN","vi_VN","zh_CN","zh_HK","zh_SG","zh_TW"]
+[05/08/18, 14:50:38:451] info: Counts: {"bg":["bg_BG"],"ca":["ca_AD","ca_ES","ca_ES","ca_FR","ca_IT"],"cs":["cs_CZ"],"da":["da_DK"],"de":["de_AT","de_BE","de_CH","de_DE","de_LI","de_LU"],"en":["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"],"es":["es_AR","es_BO","es_CL","es_CO","es_CR","es_CU","es_CU","es_DO","es_EC","es_ES","es_GT","es_HN","es_MX","es_NI","es_PA","es_PE","es_PR","es_PY","es_SV","es_US","es_UY","es_VE"],"fr":["fr_BE","fr_CA","fr_CH","fr_FR","fr_LU"],"hu":["hu_HU"],"id":["id_ID"],"it":["it_CH","it_IT"],"ja":["ja_JP"],"ko":["ko_KR"],"nb":["nb_NO"],"nl":["nl_AW","nl_AW","nl_BE","nl_NL"],"pl":["pl_PL"],"pt":["pt_BR","pt_PT"],"ru":["ru_RU","ru_UA"],"sv":["sv_FI","sv_SE"],"th":["th_TH"],"tr":["tr_CY","tr_TR"],"uk":["uk_UA"],"vi":["vi_VN","vi_VN"],"zh":["zh_CN","zh_HK","zh_SG","zh_TW"]}
+[05/08/18, 14:50:38:451] info: Setting bg
+[05/08/18, 14:50:38:452] info: Setting cs
+[05/08/18, 14:50:38:452] info: Setting da
+[05/08/18, 14:50:38:452] info: Setting hu
+[05/08/18, 14:50:38:452] info: Setting id
+[05/08/18, 14:50:38:452] info: Setting ja
+[05/08/18, 14:50:38:452] info: Setting ko
+[05/08/18, 14:50:38:452] info: Setting nb
+[05/08/18, 14:50:38:452] info: Setting pl
+[05/08/18, 14:50:38:453] info: Setting th
+[05/08/18, 14:50:38:453] info: Setting uk
+[05/08/18, 14:50:38:453] info: Result: {"bg":"bg-BG","cs":"cs-CZ","da":"da-DK","hu":"hu-HU","id":"id-ID","ja":"ja-JP","ko":"ko-KR","nb":"nb-NO","pl":"pl-PL","th":"th-TH","uk":"uk-UA","en":"en-US"}
+[05/08/18, 14:50:38:454] info: Requesting to load en-US, alternatives are ["en-US","en-US","en-US"]
+[05/08/18, 14:50:38:456] info: Loading dictionary for language en-US
+[05/08/18, 14:50:38:458] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/08/18, 14:50:38:461] info: Setting current spellchecker to en-US, requested language was en-US
+[05/08/18, 14:50:38:461] info: Creating node-spellchecker instance
+[05/08/18, 14:50:38:463] info: Actually installing spell check provider to Electron
+[05/08/18, 14:50:39:182] info: Loading dictionary for language en-US
+[05/08/18, 14:50:39:182] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/08/18, 14:50:39:183] info: Setting current spellchecker to en-US, requested language was en-US
+[05/08/18, 14:50:40:148] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:50:40:511] info: Unloading spellchecker
+[05/08/18, 14:50:40:512] info: Unloading spellchecker
+[05/08/18, 14:50:40:535] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:50:40:536] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:56:30:548] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:56:40:309] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:56:51:700] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:56:58:559] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:59:55:719] info: Store: SET_FULL_SCREEN
+[05/08/18, 14:59:56:546] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:00:11:615] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:00:18:588] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:00:22:032] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:00:23:307] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:01:09:686] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:01:16:524] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:01:23:795] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:01:28:463] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:01:34:229] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:01:35:032] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:01:35:525] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:01:35:747] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:02:18:143] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:02:29:863] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:02:47:140] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:03:26:015] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:03:33:711] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:03:58:147] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:04:13:002] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:04:13:886] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:26:105] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:34:042] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:34:821] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:35:853] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:39:550] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:42:376] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:45:813] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:46:494] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:47:774] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:48:164] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:05:56:832] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:06:11:451] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:06:20:016] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:06:21:245] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:06:23:933] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:08:10:864] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:08:21:486] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:08:41:713] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:08:53:194] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:08:58:390] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:09:10:574] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:09:42:915] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:09:43:411] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:09:44:249] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:10:17:799] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:10:19:709] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:10:22:441] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:10:24:878] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:10:30:274] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:10:44:284] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:10:53:982] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:11:05:435] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:11:10:560] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:11:22:180] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:11:31:421] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:11:40:294] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:11:54:903] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:12:03:493] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:12:08:295] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:12:32:536] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:12:33:845] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:12:42:459] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:12:53:813] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:13:24:387] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:13:32:433] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:14:09:227] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:14:13:168] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:14:36:586] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:14:51:296] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:14:52:329] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:15:16:976] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:15:18:271] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:15:58:010] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:16:02:610] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:16:03:123] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:16:03:894] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:16:09:471] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:16:12:289] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:17:19:090] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:17:28:904] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:17:50:471] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:18:43:763] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:21:16:281] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:21:29:272] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:21:33:532] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:21:38:973] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:22:27:670] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:22:49:692] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:22:50:690] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:23:20:913] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:23:37:796] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:28:19:951] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:28:27:634] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:28:35:768] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:28:36:197] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:28:36:466] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:28:38:319] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:29:05:654] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:29:06:356] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:29:21:505] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:29:26:028] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:29:45:146] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:29:50:595] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:30:00:445] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:30:45:821] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:31:20:405] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:31:21:262] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:31:43:407] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:31:53:526] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:32:15:079] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:32:37:923] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:33:41:825] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:34:47:485] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:53:17:254] error: May-8 15:53:17.254 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/08/18, 15:53:19:626] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/08/18, 15:53:23:033] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:56:18:810] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:56:54:681] info: Store: SET_FULL_SCREEN
+[05/08/18, 15:56:57:884] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:36:10:473] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:36:14:133] error: May-8 22:36:14.133 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/08/18, 22:36:16:372] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/08/18, 22:36:51:122] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:37:12:236] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:37:30:483] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:37:38:740] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:37:55:755] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:38:02:189] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:38:02:570] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:38:02:755] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:38:03:930] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:38:04:577] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:38:51:372] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:38:56:488] info: Store: SET_FULL_SCREEN
+[05/08/18, 22:39:53:788] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:47:52:148] error: May-9 08:47:52.148 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/09/18, 08:47:55:622] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/09/18, 08:51:08:706] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:51:58:923] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:52:13:392] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:52:20:692] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:54:28:111] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:54:31:082] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:54:35:262] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:54:38:330] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:59:23:503] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:59:24:889] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:59:25:190] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:59:26:176] info: Store: SET_FULL_SCREEN
+[05/09/18, 08:59:45:726] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:00:02:363] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/09/18, 09:00:02:363] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/09/18, 09:00:02:374] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": null,
+  "channel": "C9P070QNL",
+  "content": "[REDACTED]",
+  "id": "MJ21f5hW89WQnQA",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9P070QNL&message=1525820401.000037&team=T9F21EKE2",
+  "msg": "1525820401.000037",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/09/18, 09:00:07:031] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:00:33:302] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:00:48:821] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:01:01:771] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:01:04:790] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:01:07:904] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:01:11:489] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:01:23:541] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:01:37:143] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:01:45:712] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:01:51:944] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:01:52:764] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:01:53:828] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:03:16:641] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:03:22:494] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:03:24:227] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:03:50:997] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:03:59:382] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:04:06:836] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:04:11:700] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:04:13:783] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:04:21:600] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:04:23:470] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:04:27:003] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:04:34:203] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:04:54:939] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:04:57:590] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:05:07:923] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:05:16:342] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:05:18:009] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:07:00:753] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:07:30:322] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:07:39:539] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:07:45:940] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:07:54:522] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:08:03:791] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:09:07:102] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:09:31:084] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:09:31:919] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:09:37:085] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:09:38:756] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:10:15:001] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:10:16:493] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:10:50:383] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:10:56:407] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:11:00:018] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:11:01:277] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:11:09:285] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:11:11:433] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:11:24:138] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:11:26:627] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:13:33:505] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:30:43:590] error: May-9 09:30:43.590 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/09/18, 09:30:43:991] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:30:46:973] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/09/18, 09:30:48:179] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:30:49:066] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:30:58:149] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:31:05:129] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:31:10:645] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:31:12:452] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:31:17:688] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:31:21:368] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:31:42:721] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:31:44:282] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:31:49:656] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:31:51:038] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:32:11:142] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:33:26:104] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:02:718] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:04:686] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:13:388] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:15:551] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:17:753] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:19:396] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:21:807] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:23:473] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:35:491] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:36:958] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:43:354] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:35:44:359] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:36:03:888] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:36:06:092] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:36:12:732] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:36:15:731] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:36:23:373] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:36:25:530] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:36:41:047] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:36:43:483] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:36:48:129] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:36:49:501] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:38:54:534] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:38:55:936] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:39:37:311] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:39:39:092] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:39:45:389] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:39:46:795] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:40:51:069] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:40:52:921] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:41:27:961] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:41:30:109] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:41:35:712] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:41:37:111] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:41:41:463] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:41:43:631] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:42:05:177] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:42:09:402] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:42:16:725] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:42:19:567] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:42:21:789] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:42:23:383] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:46:05:699] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:51:37:712] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:51:50:667] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:52:03:055] info: Store: SET_FULL_SCREEN
+[05/09/18, 09:52:11:641] info: Store: SET_FULL_SCREEN

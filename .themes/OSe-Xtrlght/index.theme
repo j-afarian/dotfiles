@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=OSe-Arc-Light
+Comment=A flat theme for elementary OS Loki
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=OSe-Arc-Light
+MetacityTheme=OSe-Arc-Light
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

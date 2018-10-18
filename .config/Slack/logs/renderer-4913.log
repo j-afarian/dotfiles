@@ -1,0 +1,12 @@
+[05/06/18, 13:56:41:005] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[05/06/18, 13:56:41:006] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 05/06/18, 13:56:41:002      ║
+[05/06/18, 13:56:41:006] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[05/06/18, 13:56:41:084] info: Initializing local storage instance at path: /home/bella/.config/Slack/local-settings.json
+[05/06/18, 13:56:42:313] info: Store: SET_NETWORK_STATUS online
+[05/06/18, 13:56:58:751] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/06/18, 13:56:58:756] info: Store: MAIN_WINDOW_SHOWN

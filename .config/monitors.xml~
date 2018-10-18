@@ -1,0 +1,91 @@
+<monitors version="1">
+  <configuration>
+    <clone>no</clone>
+    <output name="HDMI-3">
+      <vendor>BNQ</vendor>
+      <product>BenQ EL2870U</product>
+      <serial>A6J01118SL0</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60</rate>
+      <x>1920</x>
+      <y>29</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="eDP-1">
+      <vendor>APP</vendor>
+      <product>Color LCD</product>
+      <serial>0x00000000</serial>
+      <width>1440</width>
+      <height>900</height>
+      <rate>59.887443542480469</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="HDMI-3">
+      <vendor>GSM</vendor>
+      <product>23M45</product>
+      <serial>SerialNumber</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60</rate>
+      <x>2880</x>
+      <y>181</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="eDP-1">
+      <vendor>APP</vendor>
+      <product>Color LCD</product>
+      <serial>0x00000000</serial>
+      <width>2880</width>
+      <height>1800</height>
+      <rate>59.990268707275391</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="eDP-1">
+      <vendor>APP</vendor>
+      <product>Color LCD</product>
+      <serial>0x00000000</serial>
+      <width>1920</width>
+      <height>1200</height>
+      <rate>59.884601593017578</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+</monitors>

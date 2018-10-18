@@ -1,0 +1,3719 @@
+[05/02/18, 17:54:16:836] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[05/02/18, 17:54:16:837] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 05/02/18, 17:54:16:833      ║
+[05/02/18, 17:54:16:837] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[05/02/18, 17:54:16:909] info: Initializing local storage instance at path: /home/bella/.config/Slack/local-settings.json
+[05/02/18, 17:54:17:222] info: cld3::loadModule: loading cld3 module
+[05/02/18, 17:54:17:242] info: cld3Loader::loadModule: running environment is NODE
+[05/02/18, 17:54:17:242] info: cld3Loader::loadModule: constructed module object for runtime
+[05/02/18, 17:54:17:364] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/02/18, 17:54:17:364] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/02/18, 17:54:17:367] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/02/18, 17:54:17:368] info: SSBIntegration: Main window preload script loaded 784.305397
+[05/02/18, 17:54:20:576] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 17:54:20:581] info: Store: MAIN_WINDOW_SHOWN
+[05/02/18, 17:54:20:594] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:20:595] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:20:596] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:20:991] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 17:54:22:116] info: postLoadTaskSetup: Desktop client fully loaded
+{
+  "loadedTime": 9895.923091
+}
+[05/02/18, 17:54:22:168] info: Store: SELECT_CHANNEL C9F21EML6
+[05/02/18, 17:54:22:169] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 17:54:22:169] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/02/18, 17:54:22:170] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9F21EKE2",
+  "theme": {
+    "active_item": "#2D9EE0",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#60D156",
+    "badge": "#DC5960",
+    "column_bg": "#F8F8FA",
+    "hover_item": "#FFFFFF",
+    "menu_bg": "#F8F8FA",
+    "text_color": "#383F45"
+  }
+}
+[05/02/18, 17:54:22:170] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    58
+  ],
+  "size": [
+    1440,
+    842
+  ]
+}
+[05/02/18, 17:54:22:361] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 17:54:22:361] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 17:54:22:882] info: Raw Locale list: ["bg_BG.utf8","C","ca_AD.utf8","ca_ES.utf8","ca_ES.utf8@valencia","ca_FR.utf8","ca_IT.utf8","cs_CZ.utf8","C.UTF-8","da_DK.utf8","de_AT.utf8","de_BE.utf8","de_CH.utf8","de_DE.utf8","de_LI.utf8","de_LU.utf8","en_AG","en_AG.utf8","en_AU.utf8","en_BW.utf8","en_CA.utf8","en_DK.utf8","en_GB.utf8","en_HK.utf8","en_IE.utf8","en_IN","en_IN.utf8","en_NG","en_NG.utf8","en_NZ.utf8","en_PH.utf8","en_SG.utf8","en_US.utf8","en_ZA.utf8","en_ZM","en_ZM.utf8","en_ZW.utf8","es_AR.utf8","es_BO.utf8","es_CL.utf8","es_CO.utf8","es_CR.utf8","es_CU","es_CU.utf8","es_DO.utf8","es_EC.utf8","es_ES.utf8","es_GT.utf8","es_HN.utf8","es_MX.utf8","es_NI.utf8","es_PA.utf8","es_PE.utf8","es_PR.utf8","es_PY.utf8","es_SV.utf8","es_US.utf8","es_UY.utf8","es_VE.utf8","fr_BE.utf8","fr_CA.utf8","fr_CH.utf8","fr_FR.utf8","fr_LU.utf8","hu_HU.utf8","id_ID.utf8","it_CH.utf8","it_IT.utf8","ja_JP.utf8","ko_KR.utf8","nb_NO.utf8","nl_AW","nl_AW.utf8","nl_BE.utf8","nl_NL.utf8","pl_PL.utf8","POSIX","pt_BR.utf8","pt_PT.utf8","ru_RU.utf8","ru_UA.utf8","sv_FI.utf8","sv_SE.utf8","th_TH.utf8","tr_CY.utf8","tr_TR.utf8","uk_UA.utf8","vi_VN","vi_VN.utf8","zh_CN.utf8","zh_HK.utf8","zh_SG.utf8","zh_TW.utf8",""]
+[05/02/18, 17:54:22:882] info: Filtered Locale list: ["bg_BG","ca_AD","ca_ES","ca_ES","ca_FR","ca_IT","cs_CZ","da_DK","de_AT","de_BE","de_CH","de_DE","de_LI","de_LU","en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW","es_AR","es_BO","es_CL","es_CO","es_CR","es_CU","es_CU","es_DO","es_EC","es_ES","es_GT","es_HN","es_MX","es_NI","es_PA","es_PE","es_PR","es_PY","es_SV","es_US","es_UY","es_VE","fr_BE","fr_CA","fr_CH","fr_FR","fr_LU","hu_HU","id_ID","it_CH","it_IT","ja_JP","ko_KR","nb_NO","nl_AW","nl_AW","nl_BE","nl_NL","pl_PL","pt_BR","pt_PT","ru_RU","ru_UA","sv_FI","sv_SE","th_TH","tr_CY","tr_TR","uk_UA","vi_VN","vi_VN","zh_CN","zh_HK","zh_SG","zh_TW"]
+[05/02/18, 17:54:22:883] info: Counts: {"bg":["bg_BG"],"ca":["ca_AD","ca_ES","ca_ES","ca_FR","ca_IT"],"cs":["cs_CZ"],"da":["da_DK"],"de":["de_AT","de_BE","de_CH","de_DE","de_LI","de_LU"],"en":["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"],"es":["es_AR","es_BO","es_CL","es_CO","es_CR","es_CU","es_CU","es_DO","es_EC","es_ES","es_GT","es_HN","es_MX","es_NI","es_PA","es_PE","es_PR","es_PY","es_SV","es_US","es_UY","es_VE"],"fr":["fr_BE","fr_CA","fr_CH","fr_FR","fr_LU"],"hu":["hu_HU"],"id":["id_ID"],"it":["it_CH","it_IT"],"ja":["ja_JP"],"ko":["ko_KR"],"nb":["nb_NO"],"nl":["nl_AW","nl_AW","nl_BE","nl_NL"],"pl":["pl_PL"],"pt":["pt_BR","pt_PT"],"ru":["ru_RU","ru_UA"],"sv":["sv_FI","sv_SE"],"th":["th_TH"],"tr":["tr_CY","tr_TR"],"uk":["uk_UA"],"vi":["vi_VN","vi_VN"],"zh":["zh_CN","zh_HK","zh_SG","zh_TW"]}
+[05/02/18, 17:54:22:883] info: Setting bg
+[05/02/18, 17:54:22:883] info: Setting cs
+[05/02/18, 17:54:22:884] info: Setting da
+[05/02/18, 17:54:22:884] info: Setting hu
+[05/02/18, 17:54:22:884] info: Setting id
+[05/02/18, 17:54:22:884] info: Setting ja
+[05/02/18, 17:54:22:884] info: Setting ko
+[05/02/18, 17:54:22:884] info: Setting nb
+[05/02/18, 17:54:22:884] info: Setting pl
+[05/02/18, 17:54:22:884] info: Setting th
+[05/02/18, 17:54:22:884] info: Setting uk
+[05/02/18, 17:54:22:884] info: Result: {"bg":"bg-BG","cs":"cs-CZ","da":"da-DK","hu":"hu-HU","id":"id-ID","ja":"ja-JP","ko":"ko-KR","nb":"nb-NO","pl":"pl-PL","th":"th-TH","uk":"uk-UA","en":"en-US"}
+[05/02/18, 17:54:22:886] info: Requesting to load en-US, alternatives are ["en-US","en-US","en-US"]
+[05/02/18, 17:54:22:887] info: Loading dictionary for language en-US
+[05/02/18, 17:54:22:887] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 17:54:22:891] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 17:54:22:891] info: Creating node-spellchecker instance
+[05/02/18, 17:54:22:892] info: Actually installing spell check provider to Electron
+[05/02/18, 17:54:23:593] info: Loading dictionary for language en-US
+[05/02/18, 17:54:23:594] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 17:54:23:596] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 17:54:38:901] info: Unloading spellchecker
+[05/02/18, 17:54:38:903] info: Unloading spellchecker
+[05/02/18, 17:54:38:921] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:38:922] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:39:323] info: Restoring spellchecker
+[05/02/18, 17:54:39:324] info: Loading dictionary for language en-US
+[05/02/18, 17:54:39:325] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 17:54:39:341] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:39:342] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:39:344] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 17:54:39:344] info: Creating node-spellchecker instance
+[05/02/18, 17:54:39:966] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:40:319] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:40:649] info: Unloading spellchecker
+[05/02/18, 17:54:40:652] info: Unloading spellchecker
+[05/02/18, 17:54:40:670] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:40:670] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:42:155] info: Restoring spellchecker
+[05/02/18, 17:54:42:156] info: Loading dictionary for language en-US
+[05/02/18, 17:54:42:156] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 17:54:42:173] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:42:174] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:42:174] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 17:54:42:175] info: Creating node-spellchecker instance
+[05/02/18, 17:54:44:725] info: Store: SELECT_CHANNEL C9E9052JF
+[05/02/18, 17:54:46:944] info: Couldn't detect language for text of length '15': Failed to identify language, ignoring sample
+[05/02/18, 17:54:47:305] info: Unloading spellchecker
+[05/02/18, 17:54:47:306] info: Unloading spellchecker
+[05/02/18, 17:54:47:307] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:54:47:343] info: Store: SET_FULL_SCREEN
+[05/02/18, 17:58:22:963] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 17:58:22:963] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 17:58:22:975] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "oV2OcXh6A7K37K0",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525247902.000278&team=T9F21EKE2",
+  "msg": "1525247902.000278",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 17:59:08:131] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 17:59:08:131] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 17:59:08:135] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "XLDMh4ikKMvoN5y",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525247947.000465&team=T9F21EKE2",
+  "msg": "1525247947.000465",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:02:31:948] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:02:31:948] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:02:31:950] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "r8kYTwsykQvrjxj",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525248151.000333&team=T9F21EKE2",
+  "msg": "1525248151.000333",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:02:34:180] info: Restoring spellchecker
+[05/02/18, 18:02:34:180] info: Loading dictionary for language en-US
+[05/02/18, 18:02:34:180] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:02:34:183] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:02:34:183] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:02:34:202] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:02:34:202] info: Creating node-spellchecker instance
+[05/02/18, 18:02:35:627] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:02:35:627] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:02:35:631] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "D1k0tOtZNB39RlY",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525248155.000171&team=T9F21EKE2",
+  "msg": "1525248155.000171",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:02:36:181] info: Store: SELECT_CHANNEL C9F21EML6
+[05/02/18, 18:02:36:452] info: Loading dictionary for language en-US
+[05/02/18, 18:02:36:452] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:02:36:453] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:02:41:966] info: Unloading spellchecker
+[05/02/18, 18:02:41:968] info: Unloading spellchecker
+[05/02/18, 18:02:41:997] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:02:41:998] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:02:49:493] info: Restoring spellchecker
+[05/02/18, 18:02:49:494] info: Loading dictionary for language en-US
+[05/02/18, 18:02:49:494] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:02:49:497] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:02:49:514] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:02:49:516] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:02:49:516] info: Creating node-spellchecker instance
+[05/02/18, 18:02:54:048] info: Unloading spellchecker
+[05/02/18, 18:02:54:051] info: Unloading spellchecker
+[05/02/18, 18:02:54:072] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:02:54:073] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:03:10:894] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:03:10:894] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:03:10:897] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": null,
+  "channel": "C9E929VPV",
+  "content": "[REDACTED]",
+  "id": "4Qx9uluWGNEJy85",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9E929VPV&message=1525248190.000355&team=T9F21EKE2",
+  "msg": "1525248190.000355",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:05:34:310] info: Restoring spellchecker
+[05/02/18, 18:05:34:311] info: Loading dictionary for language en-US
+[05/02/18, 18:05:34:311] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:05:34:313] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:05:34:326] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:05:34:329] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:05:34:329] info: Creating node-spellchecker instance
+[05/02/18, 18:05:37:036] info: Unloading spellchecker
+[05/02/18, 18:05:37:038] info: Unloading spellchecker
+[05/02/18, 18:05:37:062] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:05:37:063] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:05:59:438] info: Restoring spellchecker
+[05/02/18, 18:05:59:438] info: Loading dictionary for language en-US
+[05/02/18, 18:05:59:438] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:05:59:440] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:05:59:454] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:05:59:456] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:05:59:457] info: Creating node-spellchecker instance
+[05/02/18, 18:06:21:027] info: Unloading spellchecker
+[05/02/18, 18:06:21:031] info: Unloading spellchecker
+[05/02/18, 18:06:21:048] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:06:21:049] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:06:24:566] info: Restoring spellchecker
+[05/02/18, 18:06:24:567] info: Loading dictionary for language en-US
+[05/02/18, 18:06:24:567] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:06:24:588] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:06:24:589] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:06:24:591] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:06:24:591] info: Creating node-spellchecker instance
+[05/02/18, 18:06:41:627] info: Unloading spellchecker
+[05/02/18, 18:06:41:630] info: Unloading spellchecker
+[05/02/18, 18:06:41:632] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:06:41:633] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:06:43:668] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:06:43:668] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:06:43:678] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "713AtVCNK26zBr8",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525248403.000127&team=T9F21EKE2",
+  "msg": "1525248403.000127",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:06:45:086] info: Restoring spellchecker
+[05/02/18, 18:06:45:086] info: Loading dictionary for language en-US
+[05/02/18, 18:06:45:086] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:06:45:120] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:06:45:120] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:06:45:152] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:06:45:152] info: Creating node-spellchecker instance
+[05/02/18, 18:06:59:703] info: Unloading spellchecker
+[05/02/18, 18:06:59:705] info: Unloading spellchecker
+[05/02/18, 18:06:59:724] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:06:59:724] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:07:11:344] info: Restoring spellchecker
+[05/02/18, 18:07:11:345] info: Loading dictionary for language en-US
+[05/02/18, 18:07:11:345] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:07:11:362] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:07:11:363] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:07:11:365] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:07:11:365] info: Creating node-spellchecker instance
+[05/02/18, 18:07:40:902] info: Unloading spellchecker
+[05/02/18, 18:07:40:904] info: Unloading spellchecker
+[05/02/18, 18:07:40:922] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:07:40:923] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:07:44:954] info: Restoring spellchecker
+[05/02/18, 18:07:44:955] info: Loading dictionary for language en-US
+[05/02/18, 18:07:44:955] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:07:44:957] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:07:44:972] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:07:44:974] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:07:44:974] info: Creating node-spellchecker instance
+[05/02/18, 18:07:51:074] info: Unloading spellchecker
+[05/02/18, 18:07:51:076] info: Unloading spellchecker
+[05/02/18, 18:07:51:112] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:07:51:113] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:08:52:254] info: Restoring spellchecker
+[05/02/18, 18:08:52:255] info: Loading dictionary for language en-US
+[05/02/18, 18:08:52:256] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:08:52:257] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:08:52:274] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:08:52:276] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:08:52:276] info: Creating node-spellchecker instance
+[05/02/18, 18:09:23:956] info: Unloading spellchecker
+[05/02/18, 18:09:23:958] info: Unloading spellchecker
+[05/02/18, 18:09:23:959] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:09:23:960] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:09:27:447] info: Restoring spellchecker
+[05/02/18, 18:09:27:448] info: Loading dictionary for language en-US
+[05/02/18, 18:09:27:448] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:09:27:449] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:09:27:482] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:09:27:488] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:09:27:488] info: Creating node-spellchecker instance
+[05/02/18, 18:10:11:897] info: Unloading spellchecker
+[05/02/18, 18:10:11:899] info: Unloading spellchecker
+[05/02/18, 18:10:11:964] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:10:11:964] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:10:36:837] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:10:36:837] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:10:36:845] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "5QyWuxF20lpWr7w",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525248636.000303&team=T9F21EKE2",
+  "msg": "1525248636.000303",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:11:02:613] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:11:02:613] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:11:02:632] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "Mw89t9HW8PmjQV1",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525248662.000130&team=T9F21EKE2",
+  "msg": "1525248662.000130",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:11:07:206] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:11:07:211] info: Restoring spellchecker
+[05/02/18, 18:11:07:211] info: Loading dictionary for language en-US
+[05/02/18, 18:11:07:212] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:11:07:273] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:11:07:339] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:11:07:339] info: Creating node-spellchecker instance
+[05/02/18, 18:11:19:083] info: SpellChecker::updateDetectedLanguage: language has changed from 'und' to 'en'
+{
+  "language": "en",
+  "probability": 0.9999924302101135,
+  "is_reliable": true,
+  "proportion": 1
+}
+[05/02/18, 18:11:19:084] info: SpellChecker::updateDetectedLanguage: detected language is distinct to current, push values
+[05/02/18, 18:11:34:032] info: Unloading spellchecker
+[05/02/18, 18:11:34:034] info: Unloading spellchecker
+[05/02/18, 18:11:34:095] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:11:34:095] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:11:39:603] info: Restoring spellchecker
+[05/02/18, 18:11:39:603] info: Loading dictionary for language en-US
+[05/02/18, 18:11:39:604] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:11:39:606] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:11:39:665] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:11:39:666] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:11:39:666] info: Creating node-spellchecker instance
+[05/02/18, 18:11:41:344] info: Unloading spellchecker
+[05/02/18, 18:11:41:348] info: Unloading spellchecker
+[05/02/18, 18:11:41:398] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:11:41:398] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:12:21:845] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:12:21:845] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:12:21:847] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": null,
+  "channel": "C9E929VPV",
+  "content": "[REDACTED]",
+  "id": "k8RoToI91Npp2wB",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9E929VPV&message=1525248741.000283&team=T9F21EKE2",
+  "msg": "1525248741.000283",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:12:24:444] info: Restoring spellchecker
+[05/02/18, 18:12:24:444] info: Loading dictionary for language en-US
+[05/02/18, 18:12:24:444] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:12:24:445] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:12:24:494] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:12:24:496] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:12:24:496] info: Creating node-spellchecker instance
+[05/02/18, 18:12:25:784] info: Unloading spellchecker
+[05/02/18, 18:12:25:785] info: Unloading spellchecker
+[05/02/18, 18:12:25:878] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:12:25:880] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:12:26:268] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:12:26:268] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:12:26:270] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": null,
+  "channel": "C9E929VPV",
+  "content": "[REDACTED]",
+  "id": "OMYZtlSr1joorWN",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9E929VPV&message=1525248746.000045&team=T9F21EKE2",
+  "msg": "1525248746.000045",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:12:28:340] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "C9E929VPV",
+  "messageId": "1525248746.000045",
+  "notificationId": "OMYZtlSr1joorWN",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 18:12:28:342] info: Store: SELECT_TEAM T9F21EKE2
+[05/02/18, 18:12:28:363] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:12:28:364] info: Store: SELECT_CHANNEL C9E929VPV
+[05/02/18, 18:12:34:351] info: Couldn't get hint text from messages in channel: Failed to fetch recent messages
+[05/02/18, 18:13:51:284] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:13:51:285] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:13:51:285] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:13:51:290] info: Restoring spellchecker
+[05/02/18, 18:13:51:291] info: Loading dictionary for language en-US
+[05/02/18, 18:13:51:291] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:13:51:338] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:13:51:338] info: Creating node-spellchecker instance
+[05/02/18, 18:13:54:320] info: Store: SELECT_CHANNEL C9F21EML6
+[05/02/18, 18:13:54:644] info: Loading dictionary for language en-US
+[05/02/18, 18:13:54:644] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:13:54:646] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:13:56:035] info: Store: SELECT_CHANNEL C9P070QNL
+[05/02/18, 18:14:00:177] info: Store: SELECT_CHANNEL C9F21EML6
+[05/02/18, 18:14:00:490] info: Loading dictionary for language en-US
+[05/02/18, 18:14:00:490] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:14:00:491] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:14:02:031] info: Couldn't get hint text from messages in channel: Failed to fetch recent messages
+[05/02/18, 18:14:02:637] info: Unloading spellchecker
+[05/02/18, 18:14:02:640] info: Unloading spellchecker
+[05/02/18, 18:14:02:669] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:14:02:670] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:14:03:451] info: Restoring spellchecker
+[05/02/18, 18:14:03:453] info: Loading dictionary for language en-US
+[05/02/18, 18:14:03:453] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:14:03:467] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:14:03:468] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:14:03:480] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:14:03:480] info: Creating node-spellchecker instance
+[05/02/18, 18:14:03:842] info: Unloading spellchecker
+[05/02/18, 18:14:03:844] info: Unloading spellchecker
+[05/02/18, 18:14:03:876] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:14:03:876] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:15:48:756] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:15:48:756] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:15:48:763] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "jZRncgT78xQmOlE",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525248948.000236&team=T9F21EKE2",
+  "msg": "1525248948.000236",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:15:53:773] info: Restoring spellchecker
+[05/02/18, 18:15:53:774] info: Loading dictionary for language en-US
+[05/02/18, 18:15:53:774] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:15:53:775] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:15:53:801] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:15:53:825] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:15:53:825] info: Creating node-spellchecker instance
+[05/02/18, 18:15:57:996] info: Unloading spellchecker
+[05/02/18, 18:15:57:999] info: Unloading spellchecker
+[05/02/18, 18:15:58:025] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:15:58:026] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:16:00:938] info: Restoring spellchecker
+[05/02/18, 18:16:00:939] info: Loading dictionary for language en-US
+[05/02/18, 18:16:00:939] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:16:00:943] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:16:00:956] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:16:00:958] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:16:00:958] info: Creating node-spellchecker instance
+[05/02/18, 18:16:06:224] info: Unloading spellchecker
+[05/02/18, 18:16:06:227] info: Unloading spellchecker
+[05/02/18, 18:16:06:267] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:16:06:268] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:17:36:182] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:17:36:182] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:17:36:191] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "L79PU5UmnKL9pY7",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525249055.000421&team=T9F21EKE2",
+  "msg": "1525249055.000421",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:17:37:383] info: Restoring spellchecker
+[05/02/18, 18:17:37:384] info: Loading dictionary for language en-US
+[05/02/18, 18:17:37:384] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:17:37:386] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:17:37:387] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:17:37:428] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:17:37:428] info: Creating node-spellchecker instance
+[05/02/18, 18:18:01:571] info: Unloading spellchecker
+[05/02/18, 18:18:01:574] info: Unloading spellchecker
+[05/02/18, 18:18:01:594] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:01:595] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:09:249] info: Restoring spellchecker
+[05/02/18, 18:18:09:250] info: Loading dictionary for language en-US
+[05/02/18, 18:18:09:251] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:18:09:252] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:09:254] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:09:278] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:18:09:279] info: Creating node-spellchecker instance
+[05/02/18, 18:18:30:313] info: Unloading spellchecker
+[05/02/18, 18:18:30:315] info: Unloading spellchecker
+[05/02/18, 18:18:30:335] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:30:336] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:32:960] info: Restoring spellchecker
+[05/02/18, 18:18:32:960] info: Loading dictionary for language en-US
+[05/02/18, 18:18:32:961] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:18:32:964] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:32:985] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:32:988] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:18:32:988] info: Creating node-spellchecker instance
+[05/02/18, 18:18:53:452] info: Unloading spellchecker
+[05/02/18, 18:18:53:454] info: Unloading spellchecker
+[05/02/18, 18:18:53:456] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:53:456] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:56:098] info: Restoring spellchecker
+[05/02/18, 18:18:56:098] info: Loading dictionary for language en-US
+[05/02/18, 18:18:56:098] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:18:56:100] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:56:100] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:56:115] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:18:56:116] info: Creating node-spellchecker instance
+[05/02/18, 18:18:58:205] info: Unloading spellchecker
+[05/02/18, 18:18:58:206] info: Unloading spellchecker
+[05/02/18, 18:18:58:214] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:18:58:214] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:21:31:612] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:21:31:612] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:21:31:627] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "4Qx9uAcWGNE9ZAy",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525249291.000137&team=T9F21EKE2",
+  "msg": "1525249291.000137",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:21:36:530] info: Restoring spellchecker
+[05/02/18, 18:21:36:530] info: Loading dictionary for language en-US
+[05/02/18, 18:21:36:530] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:21:36:532] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:21:36:534] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:21:36:576] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:21:36:577] info: Creating node-spellchecker instance
+[05/02/18, 18:21:46:889] info: Unloading spellchecker
+[05/02/18, 18:21:46:891] info: Unloading spellchecker
+[05/02/18, 18:21:46:925] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:21:46:927] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:22:06:135] info: Restoring spellchecker
+[05/02/18, 18:22:06:136] info: Loading dictionary for language en-US
+[05/02/18, 18:22:06:136] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:22:06:139] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:22:06:140] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:22:06:167] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:22:06:167] info: Creating node-spellchecker instance
+[05/02/18, 18:22:13:846] info: Unloading spellchecker
+[05/02/18, 18:22:13:847] info: Unloading spellchecker
+[05/02/18, 18:22:13:849] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:22:13:850] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:22:57:571] info: Restoring spellchecker
+[05/02/18, 18:22:57:572] info: Loading dictionary for language en-US
+[05/02/18, 18:22:57:572] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:22:57:574] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:22:57:575] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:22:57:591] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:22:57:591] info: Creating node-spellchecker instance
+[05/02/18, 18:22:59:736] info: Unloading spellchecker
+[05/02/18, 18:22:59:739] info: Unloading spellchecker
+[05/02/18, 18:22:59:762] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:22:59:763] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:23:00:466] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:23:00:466] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:23:00:470] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "oV2Ocof6A7KA8AP",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525249380.000124&team=T9F21EKE2",
+  "msg": "1525249380.000124",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:23:01:126] info: Restoring spellchecker
+[05/02/18, 18:23:01:126] info: Loading dictionary for language en-US
+[05/02/18, 18:23:01:127] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:23:01:130] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:23:01:131] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:23:01:155] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:23:01:155] info: Creating node-spellchecker instance
+[05/02/18, 18:23:07:219] info: Unloading spellchecker
+[05/02/18, 18:23:07:221] info: Unloading spellchecker
+[05/02/18, 18:23:07:225] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:23:07:227] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:24:03:800] info: Restoring spellchecker
+[05/02/18, 18:24:03:800] info: Loading dictionary for language en-US
+[05/02/18, 18:24:03:800] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:24:03:802] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:24:03:820] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:24:03:823] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:24:03:823] info: Creating node-spellchecker instance
+[05/02/18, 18:24:04:713] info: Unloading spellchecker
+[05/02/18, 18:24:04:716] info: Unloading spellchecker
+[05/02/18, 18:24:04:716] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:24:04:717] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:27:30:791] info: Restoring spellchecker
+[05/02/18, 18:27:30:792] info: Loading dictionary for language en-US
+[05/02/18, 18:27:30:792] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:27:30:793] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:27:30:793] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:27:30:824] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:27:30:824] info: Creating node-spellchecker instance
+[05/02/18, 18:27:32:047] info: Unloading spellchecker
+[05/02/18, 18:27:32:050] info: Unloading spellchecker
+[05/02/18, 18:27:32:051] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:27:32:052] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:31:49:563] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:31:49:563] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:31:49:566] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "VAONtOhJRE9DVyn",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525249909.000127&team=T9F21EKE2",
+  "msg": "1525249909.000127",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:32:05:694] info: Restoring spellchecker
+[05/02/18, 18:32:05:695] info: Loading dictionary for language en-US
+[05/02/18, 18:32:05:696] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:32:05:698] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:32:05:699] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:32:05:729] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:32:05:729] info: Creating node-spellchecker instance
+[05/02/18, 18:32:17:641] info: Unloading spellchecker
+[05/02/18, 18:32:17:643] info: Unloading spellchecker
+[05/02/18, 18:32:17:658] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:32:17:672] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:08:442] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:33:08:442] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:33:08:454] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "oV2OcZi6A7KyX4K",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525249988.000104&team=T9F21EKE2",
+  "msg": "1525249988.000104",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:33:12:899] info: Restoring spellchecker
+[05/02/18, 18:33:12:900] info: Loading dictionary for language en-US
+[05/02/18, 18:33:12:900] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:33:12:900] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:12:933] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:12:961] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:33:12:961] info: Creating node-spellchecker instance
+[05/02/18, 18:33:15:070] info: Unloading spellchecker
+[05/02/18, 18:33:15:072] info: Unloading spellchecker
+[05/02/18, 18:33:15:095] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:15:096] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:17:683] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:17:684] info: Restoring spellchecker
+[05/02/18, 18:33:17:685] info: Loading dictionary for language en-US
+[05/02/18, 18:33:17:685] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:33:17:703] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:17:706] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:33:17:706] info: Creating node-spellchecker instance
+[05/02/18, 18:33:18:388] info: Unloading spellchecker
+[05/02/18, 18:33:18:390] info: Unloading spellchecker
+[05/02/18, 18:33:18:411] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:18:411] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:19:103] info: Restoring spellchecker
+[05/02/18, 18:33:19:104] info: Loading dictionary for language en-US
+[05/02/18, 18:33:19:104] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:33:19:104] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:19:105] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:19:125] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:33:19:125] info: Creating node-spellchecker instance
+[05/02/18, 18:33:19:302] info: Unloading spellchecker
+[05/02/18, 18:33:19:304] info: Unloading spellchecker
+[05/02/18, 18:33:19:336] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:33:19:336] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:34:09:300] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:34:09:300] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:34:09:304] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "VAONtwsJRE938xV",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525250049.000034&team=T9F21EKE2",
+  "msg": "1525250049.000034",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:34:18:093] info: Restoring spellchecker
+[05/02/18, 18:34:18:095] info: Loading dictionary for language en-US
+[05/02/18, 18:34:18:095] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:34:18:095] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:34:18:096] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:34:18:118] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:34:18:118] info: Creating node-spellchecker instance
+[05/02/18, 18:34:18:445] info: Unloading spellchecker
+[05/02/18, 18:34:18:447] info: Unloading spellchecker
+[05/02/18, 18:34:18:461] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:34:18:462] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:03:872] info: Restoring spellchecker
+[05/02/18, 18:37:03:873] info: Loading dictionary for language en-US
+[05/02/18, 18:37:03:873] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:37:03:874] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:03:892] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:03:893] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:37:03:893] info: Creating node-spellchecker instance
+[05/02/18, 18:37:04:786] info: Unloading spellchecker
+[05/02/18, 18:37:04:787] info: Unloading spellchecker
+[05/02/18, 18:37:04:788] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:04:791] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:06:032] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:06:364] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:06:766] info: Restoring spellchecker
+[05/02/18, 18:37:06:766] info: Loading dictionary for language en-US
+[05/02/18, 18:37:06:767] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:37:06:767] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:06:771] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:06:771] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:37:06:772] info: Creating node-spellchecker instance
+[05/02/18, 18:37:09:535] info: Unloading spellchecker
+[05/02/18, 18:37:09:538] info: Unloading spellchecker
+[05/02/18, 18:37:09:542] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:09:545] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:37:34:426] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:37:34:426] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:37:34:430] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": null,
+  "channel": "C9E929VPV",
+  "content": "[REDACTED]",
+  "id": "1Ww9SRtXZODBgm0",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9E929VPV&message=1525250254.000079&team=T9F21EKE2",
+  "msg": "1525250254.000079",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:37:39:254] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:37:39:254] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:37:39:255] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": null,
+  "channel": "C9E929VPV",
+  "content": "[REDACTED]",
+  "id": "vl2juGuA68K3Rk0",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9E929VPV&message=1525250259.000043&team=T9F21EKE2",
+  "msg": "1525250259.000043",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:38:40:063] info: Restoring spellchecker
+[05/02/18, 18:38:40:064] info: Loading dictionary for language en-US
+[05/02/18, 18:38:40:064] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:38:40:065] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:40:069] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:40:072] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:38:40:072] info: Creating node-spellchecker instance
+[05/02/18, 18:38:40:870] info: Unloading spellchecker
+[05/02/18, 18:38:40:871] info: Unloading spellchecker
+[05/02/18, 18:38:40:871] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:40:872] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:47:157] info: Restoring spellchecker
+[05/02/18, 18:38:47:158] info: Loading dictionary for language en-US
+[05/02/18, 18:38:47:158] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:38:47:159] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:47:194] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:47:200] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:38:47:200] info: Creating node-spellchecker instance
+[05/02/18, 18:38:49:241] info: Unloading spellchecker
+[05/02/18, 18:38:49:242] info: Unloading spellchecker
+[05/02/18, 18:38:49:270] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:49:271] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:51:531] info: Restoring spellchecker
+[05/02/18, 18:38:51:532] info: Loading dictionary for language en-US
+[05/02/18, 18:38:51:532] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:38:51:533] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:51:561] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:51:577] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:38:51:577] info: Creating node-spellchecker instance
+[05/02/18, 18:38:52:132] info: Unloading spellchecker
+[05/02/18, 18:38:52:133] info: Unloading spellchecker
+[05/02/18, 18:38:52:133] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:38:52:134] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:39:12:604] info: Restoring spellchecker
+[05/02/18, 18:39:12:605] info: Loading dictionary for language en-US
+[05/02/18, 18:39:12:605] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:39:12:605] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:39:12:627] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:39:12:649] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:39:12:650] info: Creating node-spellchecker instance
+[05/02/18, 18:39:13:001] info: Unloading spellchecker
+[05/02/18, 18:39:13:003] info: Unloading spellchecker
+[05/02/18, 18:39:13:003] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:39:13:024] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:39:30:420] info: Restoring spellchecker
+[05/02/18, 18:39:30:420] info: Loading dictionary for language en-US
+[05/02/18, 18:39:30:421] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:39:30:422] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:39:30:451] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:39:30:470] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:39:30:470] info: Creating node-spellchecker instance
+[05/02/18, 18:39:31:451] info: Unloading spellchecker
+[05/02/18, 18:39:31:452] info: Unloading spellchecker
+[05/02/18, 18:39:31:452] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:39:31:453] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:39:38:131] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:39:38:131] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:39:38:133] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": null,
+  "channel": "C9E929VPV",
+  "content": "[REDACTED]",
+  "id": "ANDmsvCYKOo8wQO",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9E929VPV&message=1525250377.000393&team=T9F21EKE2",
+  "msg": "1525250377.000393",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:39:39:601] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "C9E929VPV",
+  "messageId": "1525250377.000393",
+  "notificationId": "ANDmsvCYKOo8wQO",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 18:39:39:603] info: Store: SELECT_TEAM T9F21EKE2
+[05/02/18, 18:39:39:621] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:39:39:622] info: Store: SELECT_CHANNEL C9E929VPV
+[05/02/18, 18:39:45:610] info: Couldn't get hint text from messages in channel: Failed to fetch recent messages
+[05/02/18, 18:40:00:206] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:40:00:206] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:40:00:211] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": null,
+  "channel": "C9E929VPV",
+  "content": "[REDACTED]",
+  "id": "jZRncVF78xDRZZX",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9E929VPV&message=1525250399.000512&team=T9F21EKE2",
+  "msg": "1525250399.000512",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:40:01:623] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "C9E929VPV",
+  "messageId": "1525250399.000512",
+  "notificationId": "jZRncVF78xDRZZX",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 18:40:01:626] info: Store: SELECT_TEAM T9F21EKE2
+[05/02/18, 18:40:04:378] info: Restoring spellchecker
+[05/02/18, 18:40:04:378] info: Loading dictionary for language en-US
+[05/02/18, 18:40:04:378] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:40:04:379] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:40:04:380] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:40:04:381] info: Creating node-spellchecker instance
+[05/02/18, 18:40:04:382] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:40:04:382] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:40:12:379] info: Unloading spellchecker
+[05/02/18, 18:40:12:379] info: Unloading spellchecker
+[05/02/18, 18:40:12:388] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:40:12:395] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:40:54:649] info: Restoring spellchecker
+[05/02/18, 18:40:54:650] info: Loading dictionary for language en-US
+[05/02/18, 18:40:54:651] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:40:54:658] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:40:54:679] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:40:54:697] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:40:54:698] info: Creating node-spellchecker instance
+[05/02/18, 18:40:56:352] info: Store: SELECT_CHANNEL C9QF1NKAS
+[05/02/18, 18:40:56:970] info: Store: SELECT_CHANNEL C9F21EML6
+[05/02/18, 18:40:57:334] info: Loading dictionary for language en-US
+[05/02/18, 18:40:57:334] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:40:57:335] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:40:58:339] info: Loading dictionary for language en-US
+[05/02/18, 18:40:58:339] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:40:58:340] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:41:49:060] info: Unloading spellchecker
+[05/02/18, 18:41:49:063] info: Unloading spellchecker
+[05/02/18, 18:41:49:064] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:41:49:065] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:41:57:041] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:41:57:041] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:41:57:056] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "lxYpsMHqxgOyooN",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525250516.000406&team=T9F21EKE2",
+  "msg": "1525250516.000406",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:41:59:405] info: Restoring spellchecker
+[05/02/18, 18:41:59:406] info: Loading dictionary for language en-US
+[05/02/18, 18:41:59:406] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:41:59:409] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:41:59:414] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:41:59:415] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:41:59:416] info: Creating node-spellchecker instance
+[05/02/18, 18:42:00:152] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:42:00:152] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:42:00:155] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": null,
+  "channel": "C9E929VPV",
+  "content": "[REDACTED]",
+  "id": "8129tgIMDRG2JYB",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9E929VPV&message=1525250519.000367&team=T9F21EKE2",
+  "msg": "1525250519.000367",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:42:02:553] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "C9E929VPV",
+  "messageId": "1525250519.000367",
+  "notificationId": "8129tgIMDRG2JYB",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 18:42:02:555] info: Store: SELECT_TEAM T9F21EKE2
+[05/02/18, 18:42:02:584] info: Store: SELECT_CHANNEL C9E929VPV
+[05/02/18, 18:42:06:170] info: Unloading spellchecker
+[05/02/18, 18:42:06:171] info: Unloading spellchecker
+[05/02/18, 18:42:06:171] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:42:06:190] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:42:08:567] info: Couldn't get hint text from messages in channel: Failed to fetch recent messages
+[05/02/18, 18:44:21:568] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:44:21:569] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:44:21:571] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "91r2t4SOXZlPzWN",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525250661.000159&team=T9F21EKE2",
+  "msg": "1525250661.000159",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:44:28:730] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:44:28:730] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:44:28:732] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "K1r6tyTAxn5pg21",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525250668.000209&team=T9F21EKE2",
+  "msg": "1525250668.000209",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:44:37:792] info: Restoring spellchecker
+[05/02/18, 18:44:37:792] info: Loading dictionary for language en-US
+[05/02/18, 18:44:37:793] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:44:37:795] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:44:37:796] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:44:37:830] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:44:37:831] info: Creating node-spellchecker instance
+[05/02/18, 18:44:38:260] info: Unloading spellchecker
+[05/02/18, 18:44:38:262] info: Unloading spellchecker
+[05/02/18, 18:44:38:262] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:44:38:263] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:44:38:544] info: Restoring spellchecker
+[05/02/18, 18:44:38:545] info: Loading dictionary for language en-US
+[05/02/18, 18:44:38:545] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:44:38:548] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:44:38:550] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:44:38:550] info: Creating node-spellchecker instance
+[05/02/18, 18:44:38:552] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:44:40:600] info: Store: SELECT_CHANNEL C9F21EML6
+[05/02/18, 18:44:40:946] info: Loading dictionary for language en-US
+[05/02/18, 18:44:40:946] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:44:40:948] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:44:51:986] info: Unloading spellchecker
+[05/02/18, 18:44:51:988] info: Unloading spellchecker
+[05/02/18, 18:44:51:988] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:44:51:989] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:44:52:943] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:44:52:948] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:44:52:959] info: Restoring spellchecker
+[05/02/18, 18:44:52:960] info: Loading dictionary for language en-US
+[05/02/18, 18:44:52:960] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:44:52:979] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:44:52:980] info: Creating node-spellchecker instance
+[05/02/18, 18:45:20:204] info: Unloading spellchecker
+[05/02/18, 18:45:20:206] info: Unloading spellchecker
+[05/02/18, 18:45:20:206] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:20:207] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:24:988] info: Restoring spellchecker
+[05/02/18, 18:45:24:989] info: Loading dictionary for language en-US
+[05/02/18, 18:45:24:989] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:45:24:992] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:24:997] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:25:015] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:45:25:015] info: Creating node-spellchecker instance
+[05/02/18, 18:45:26:092] info: Unloading spellchecker
+[05/02/18, 18:45:26:094] info: Unloading spellchecker
+[05/02/18, 18:45:26:094] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:26:095] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:27:717] info: Restoring spellchecker
+[05/02/18, 18:45:27:718] info: Loading dictionary for language en-US
+[05/02/18, 18:45:27:718] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:45:27:720] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:27:721] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:27:747] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:45:27:747] info: Creating node-spellchecker instance
+[05/02/18, 18:45:32:806] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    208,
+    81
+  ],
+  "size": [
+    1024,
+    768
+  ]
+}
+[05/02/18, 18:45:32:812] info: Unloading spellchecker
+[05/02/18, 18:45:32:814] info: Restoring spellchecker
+[05/02/18, 18:45:32:815] info: Loading dictionary for language en-US
+[05/02/18, 18:45:32:815] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:45:32:829] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:45:32:829] info: Creating node-spellchecker instance
+[05/02/18, 18:45:49:362] info: Unloading spellchecker
+[05/02/18, 18:45:49:363] info: Unloading spellchecker
+[05/02/18, 18:45:49:364] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:49:364] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:49:819] info: Restoring spellchecker
+[05/02/18, 18:45:49:820] info: Loading dictionary for language en-US
+[05/02/18, 18:45:49:820] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:45:49:821] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:49:826] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:49:827] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:45:49:827] info: Creating node-spellchecker instance
+[05/02/18, 18:45:50:175] info: Unloading spellchecker
+[05/02/18, 18:45:50:179] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:50:180] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:45:51:181] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    10,
+    38
+  ],
+  "size": [
+    1440,
+    842
+  ]
+}
+[05/02/18, 18:48:14:255] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:48:14:255] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:48:14:257] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "NLk8hYURAVOV7G9",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525250894.000047&team=T9F21EKE2",
+  "msg": "1525250894.000047",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:50:09:988] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:50:09:988] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:50:09:990] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "ZY6WSrcyLNYMOon",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525251009.000369&team=T9F21EKE2",
+  "msg": "1525251009.000369",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:50:20:051] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:50:20:052] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:50:20:054] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "0YR9SVfWvrzovMq",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525251019.000422&team=T9F21EKE2",
+  "msg": "1525251019.000422",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:50:29:404] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:50:29:404] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:50:29:405] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "P7NYUVhjYZnmLAK",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525251029.000097&team=T9F21EKE2",
+  "msg": "1525251029.000097",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:51:04:326] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:51:04:326] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:51:04:329] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "q7x2UjiELvypW53",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525251063.000609&team=T9F21EKE2",
+  "msg": "1525251063.000609",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:52:23:421] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:52:23:421] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:52:23:422] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "r8kYTZsykQ93xDj",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525251143.000120&team=T9F21EKE2",
+  "msg": "1525251143.000120",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:52:38:547] info: Store: FOREGROUND_APP
+[05/02/18, 18:52:38:660] info: Restoring spellchecker
+[05/02/18, 18:52:38:661] info: Loading dictionary for language en-US
+[05/02/18, 18:52:38:661] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:52:38:663] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:52:38:663] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:52:38:664] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:52:38:665] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:52:38:665] info: Creating node-spellchecker instance
+[05/02/18, 18:52:39:563] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    58
+  ],
+  "size": [
+    1440,
+    842
+  ]
+}
+[05/02/18, 18:52:57:540] info: Unloading spellchecker
+[05/02/18, 18:52:57:542] info: Unloading spellchecker
+[05/02/18, 18:52:57:558] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:52:57:559] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:52:58:709] info: Restoring spellchecker
+[05/02/18, 18:52:58:709] info: Loading dictionary for language en-US
+[05/02/18, 18:52:58:709] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:52:58:710] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:52:58:720] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:52:58:721] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:52:58:722] info: Creating node-spellchecker instance
+[05/02/18, 18:52:58:912] info: Unloading spellchecker
+[05/02/18, 18:52:58:914] info: Unloading spellchecker
+[05/02/18, 18:52:58:940] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:52:58:941] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:46:999] info: Restoring spellchecker
+[05/02/18, 18:54:46:999] info: Loading dictionary for language en-US
+[05/02/18, 18:54:46:999] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:54:47:001] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:47:002] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:47:018] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:54:47:018] info: Creating node-spellchecker instance
+[05/02/18, 18:54:48:175] info: Unloading spellchecker
+[05/02/18, 18:54:48:176] info: Unloading spellchecker
+[05/02/18, 18:54:48:177] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:48:177] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:49:424] info: Restoring spellchecker
+[05/02/18, 18:54:49:425] info: Loading dictionary for language en-US
+[05/02/18, 18:54:49:425] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:54:49:427] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:49:428] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:49:431] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:54:49:431] info: Creating node-spellchecker instance
+[05/02/18, 18:54:49:829] info: Unloading spellchecker
+[05/02/18, 18:54:49:831] info: Unloading spellchecker
+[05/02/18, 18:54:49:833] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:49:833] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:50:599] info: Restoring spellchecker
+[05/02/18, 18:54:50:601] info: Loading dictionary for language en-US
+[05/02/18, 18:54:50:601] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:54:50:603] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:50:604] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:50:626] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:54:50:626] info: Creating node-spellchecker instance
+[05/02/18, 18:54:50:777] info: Unloading spellchecker
+[05/02/18, 18:54:50:779] info: Unloading spellchecker
+[05/02/18, 18:54:50:783] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:50:784] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:52:486] info: Restoring spellchecker
+[05/02/18, 18:54:52:486] info: Loading dictionary for language en-US
+[05/02/18, 18:54:52:487] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:54:52:491] info: Unloading spellchecker
+[05/02/18, 18:54:52:492] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:52:493] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:52:512] info: Unloading spellchecker
+[05/02/18, 18:54:52:513] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:54:52:514] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:54:52:514] info: Creating node-spellchecker instance
+[05/02/18, 18:54:53:742] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:02:048] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:56:02:048] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:56:02:061] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "q7x2UrtELvyWG2D",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525251361.000414&team=T9F21EKE2",
+  "msg": "1525251361.000414",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:56:10:450] info: Restoring spellchecker
+[05/02/18, 18:56:10:450] info: Loading dictionary for language en-US
+[05/02/18, 18:56:10:450] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:56:10:452] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:10:452] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:10:498] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:56:14:356] info: Unloading spellchecker
+[05/02/18, 18:56:14:358] info: Unloading spellchecker
+[05/02/18, 18:56:14:361] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:14:362] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:14:712] warn: SpellChecker::updateDetectedLanguage: cld could not detect language correctly, empty result returned
+[05/02/18, 18:56:15:019] info: Restoring spellchecker
+[05/02/18, 18:56:15:020] info: Loading dictionary for language en-US
+[05/02/18, 18:56:15:020] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:56:15:023] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:15:024] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:15:026] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:56:15:026] info: Creating node-spellchecker instance
+[05/02/18, 18:56:15:568] info: Unloading spellchecker
+[05/02/18, 18:56:15:569] info: Unloading spellchecker
+[05/02/18, 18:56:15:571] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:15:572] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:23:519] info: Restoring spellchecker
+[05/02/18, 18:56:23:520] info: Loading dictionary for language en-US
+[05/02/18, 18:56:23:520] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:56:23:521] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:23:522] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:23:536] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:56:23:537] info: Creating node-spellchecker instance
+[05/02/18, 18:56:24:569] info: Unloading spellchecker
+[05/02/18, 18:56:24:569] info: Unloading spellchecker
+[05/02/18, 18:56:24:585] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:24:586] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:27:272] info: Restoring spellchecker
+[05/02/18, 18:56:27:273] info: Loading dictionary for language en-US
+[05/02/18, 18:56:27:273] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:56:27:275] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:27:276] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:27:295] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:56:27:295] info: Creating node-spellchecker instance
+[05/02/18, 18:56:27:770] info: Unloading spellchecker
+[05/02/18, 18:56:27:772] info: Unloading spellchecker
+[05/02/18, 18:56:27:789] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:56:27:790] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:17:994] info: Restoring spellchecker
+[05/02/18, 18:57:17:995] info: Loading dictionary for language en-US
+[05/02/18, 18:57:17:995] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:57:17:996] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:17:998] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:18:019] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:57:18:020] info: Creating node-spellchecker instance
+[05/02/18, 18:57:18:803] info: Unloading spellchecker
+[05/02/18, 18:57:18:805] info: Unloading spellchecker
+[05/02/18, 18:57:18:817] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:18:831] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:32:324] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:57:32:324] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 18:57:32:328] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "jZRncwu78xDpNAm",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525251452.000065&team=T9F21EKE2",
+  "msg": "1525251452.000065",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 18:57:39:279] info: Restoring spellchecker
+[05/02/18, 18:57:39:280] info: Loading dictionary for language en-US
+[05/02/18, 18:57:39:280] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:57:39:281] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:39:281] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:39:302] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:57:39:302] info: Creating node-spellchecker instance
+[05/02/18, 18:57:42:186] info: Store: SELECT_CHANNEL C9E9052JF
+[05/02/18, 18:57:42:532] info: Couldn't detect language for text of length '15': Failed to identify language, ignoring sample
+[05/02/18, 18:57:43:732] info: Unloading spellchecker
+[05/02/18, 18:57:43:733] info: Unloading spellchecker
+[05/02/18, 18:57:43:733] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:43:775] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:50:585] info: Restoring spellchecker
+[05/02/18, 18:57:50:588] info: Loading dictionary for language en-US
+[05/02/18, 18:57:50:588] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:57:50:591] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:50:591] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:50:617] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:57:50:617] info: Creating node-spellchecker instance
+[05/02/18, 18:57:51:582] info: Unloading spellchecker
+[05/02/18, 18:57:51:584] info: Unloading spellchecker
+[05/02/18, 18:57:51:585] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:51:604] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:56:366] info: Restoring spellchecker
+[05/02/18, 18:57:56:366] info: Loading dictionary for language en-US
+[05/02/18, 18:57:56:366] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 18:57:56:368] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:56:368] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:56:384] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 18:57:56:384] info: Creating node-spellchecker instance
+[05/02/18, 18:57:56:480] info: Unloading spellchecker
+[05/02/18, 18:57:56:482] info: Unloading spellchecker
+[05/02/18, 18:57:56:483] info: Store: SET_FULL_SCREEN
+[05/02/18, 18:57:56:485] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:13:51:249] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:13:51:249] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:13:51:252] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "ZY6WSLCyLNYvQvA",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252430.000480&team=T9F21EKE2",
+  "msg": "1525252430.000480",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:14:52:188] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:14:52:188] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:14:52:190] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "2xk9sYF2Y0yrBBg",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252491.000500&team=T9F21EKE2",
+  "msg": "1525252491.000500",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:15:24:159] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:15:24:159] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:15:24:161] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "L79PUqHmnKWLJzM",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252523.000412&team=T9F21EKE2",
+  "msg": "1525252523.000412",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:15:25:214] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:15:25:214] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:15:25:216] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "ANDmszIYKOog5M4",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252525.000047&team=T9F21EKE2",
+  "msg": "1525252525.000047",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:15:54:199] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:15:54:199] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:15:54:201] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "ZY6WSNSyLNYr4xR",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252554.000023&team=T9F21EKE2",
+  "msg": "1525252554.000023",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:17:19:327] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:17:19:327] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:17:19:329] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "3Q19u1TDVEllGD1",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252639.000036&team=T9F21EKE2",
+  "msg": "1525252639.000036",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:17:33:594] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:17:33:594] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:17:33:595] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "Mw89tNUW8PZZz2R",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252653.000212&team=T9F21EKE2",
+  "msg": "1525252653.000212",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:17:42:160] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:17:42:160] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:17:42:162] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "L79PUGcmnKWvqlO",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252661.000447&team=T9F21EKE2",
+  "msg": "1525252661.000447",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:18:34:481] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:18:34:481] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:18:34:484] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "E8RPTZfPMxE66ON",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252714.000140&team=T9F21EKE2",
+  "msg": "1525252714.000140",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:18:41:154] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:18:41:154] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:18:41:155] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "E8RPT3JhPMxE6Vq5",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252721.000015&team=T9F21EKE2",
+  "msg": "1525252721.000015",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:18:49:442] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:18:49:442] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:18:49:443] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "jZRncnni78xDmNDR",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252729.000116&team=T9F21EKE2",
+  "msg": "1525252729.000116",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:19:15:276] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:19:15:276] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:19:15:278] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "D1k0t5BsZNBQgkJ8",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252755.000078&team=T9F21EKE2",
+  "msg": "1525252755.000078",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:19:39:819] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:19:39:820] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:19:39:825] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "4Qx9uBztWGNYgKrR",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525252779.000261&team=T9F21EKE2",
+  "msg": "1525252779.000261",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:23:30:879] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:23:30:879] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:23:30:881] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "NLk8h0VuRAVOqzNx",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253010.000356&team=T9F21EKE2",
+  "msg": "1525253010.000356",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:23:46:724] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:23:46:724] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:23:46:726] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "k8RoTOqC91NvqYN6",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253026.000269&team=T9F21EKE2",
+  "msg": "1525253026.000269",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:24:44:767] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:24:44:767] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:24:44:770] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "p8YzTnAFGlk8lP7j",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253084.000226&team=T9F21EKE2",
+  "msg": "1525253084.000226",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:26:01:480] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:26:01:480] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:26:01:482] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "E8RPT30HPMxEMOvZ",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253161.000109&team=T9F21EKE2",
+  "msg": "1525253161.000109",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:26:37:304] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:26:37:304] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:26:37:305] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "713AtAQINK29g4EP",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253197.000055&team=T9F21EKE2",
+  "msg": "1525253197.000055",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:28:57:176] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:28:57:176] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:28:57:178] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "QnWOTk9SkWQ4zq7Q",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253336.000451&team=T9F21EKE2",
+  "msg": "1525253336.000451",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:29:09:395] info: Restoring spellchecker
+[05/02/18, 19:29:09:396] info: Loading dictionary for language en-US
+[05/02/18, 19:29:09:396] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 19:29:09:399] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:29:09:400] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:29:09:419] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 19:29:09:419] info: Creating node-spellchecker instance
+[05/02/18, 19:29:11:439] info: Store: SELECT_CHANNEL C9F21EML6
+[05/02/18, 19:29:11:718] info: Loading dictionary for language en-US
+[05/02/18, 19:29:11:719] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 19:29:11:719] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 19:29:40:454] info: Unloading spellchecker
+[05/02/18, 19:29:40:457] info: Unloading spellchecker
+[05/02/18, 19:29:40:473] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:29:40:489] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:29:41:913] info: Restoring spellchecker
+[05/02/18, 19:29:41:914] info: Loading dictionary for language en-US
+[05/02/18, 19:29:41:914] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 19:29:41:915] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:29:41:916] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:29:41:934] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 19:29:41:934] info: Creating node-spellchecker instance
+[05/02/18, 19:29:42:276] info: Unloading spellchecker
+[05/02/18, 19:29:42:279] info: Unloading spellchecker
+[05/02/18, 19:29:42:296] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:29:42:296] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:31:10:222] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:31:10:222] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:31:10:226] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "q7x2U8JTELvyO5YV",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253470.000004&team=T9F21EKE2",
+  "msg": "1525253470.000004",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:31:23:262] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:31:23:262] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:31:23:267] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "5QyWuZ3U20lY51vQ",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253483.000046&team=T9F21EKE2",
+  "msg": "1525253483.000046",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:32:32:149] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:32:32:149] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:32:32:151] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "YWEMSL5cVqjyL1nE",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253551.000488&team=T9F21EKE2",
+  "msg": "1525253551.000488",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:33:04:308] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:33:04:308] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:33:04:311] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "E8RPT3KtPMxEGGxz",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253584.000009&team=T9F21EKE2",
+  "msg": "1525253584.000009",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:33:24:567] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:33:24:568] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:33:24:570] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "NLk8h05HRAVOBr6l",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253604.000170&team=T9F21EKE2",
+  "msg": "1525253604.000170",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:36:13:849] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:36:13:849] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:36:13:856] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "WL68h5ptnkLAgmnE",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253773.000257&team=T9F21EKE2",
+  "msg": "1525253773.000257",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:36:34:817] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:36:34:817] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:36:34:820] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "jZRncnps78xDAGr1",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253794.000236&team=T9F21EKE2",
+  "msg": "1525253794.000236",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:38:37:080] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:38:37:080] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:38:37:087] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "xnklT1wSwJgoEKYO",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525253916.000417&team=T9F21EKE2",
+  "msg": "1525253916.000417",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:41:31:483] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:41:31:483] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:41:31:495] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "713AtApuNK2J8o0X",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254091.000108&team=T9F21EKE2",
+  "msg": "1525254091.000108",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:42:10:301] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:42:10:301] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:42:10:309] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "wVpkcGpCKrQ7qARr",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254130.000044&team=T9F21EKE2",
+  "msg": "1525254130.000044",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:42:50:021] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:42:50:021] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:42:50:024] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "713AtAvFNK2JWjD3",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254169.000391&team=T9F21EKE2",
+  "msg": "1525254169.000391",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:43:12:543] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:43:12:544] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:43:12:551] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "2xk9spNH2Y0JBnQQ",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254192.000166&team=T9F21EKE2",
+  "msg": "1525254192.000166",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:43:38:264] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:43:38:264] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:43:38:267] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "6X80IrqI502AmDVn",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254218.000074&team=T9F21EKE2",
+  "msg": "1525254218.000074",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:43:44:966] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:43:44:966] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:43:44:969] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "NLk8h06sRAV6jgr9",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254224.000386&team=T9F21EKE2",
+  "msg": "1525254224.000386",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:44:13:387] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:44:13:387] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:44:13:417] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "XLDMhXZTkKMYDO17",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254253.000063&team=T9F21EKE2",
+  "msg": "1525254253.000063",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:44:46:150] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:44:46:151] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:44:46:153] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "vl2ju7wUA684AokG",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254285.000411&team=T9F21EKE2",
+  "msg": "1525254285.000411",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:44:55:787] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:44:55:788] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:44:55:790] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "k8RoTOyc91NW9DAm",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254295.000285&team=T9F21EKE2",
+  "msg": "1525254295.000285",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:53:15:483] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:53:15:483] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:53:15:492] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "jZRncnzf78xmY7lw",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254795.000147&team=T9F21EKE2",
+  "msg": "1525254795.000147",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:53:20:189] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:20:191] info: Restoring spellchecker
+[05/02/18, 19:53:20:191] info: Loading dictionary for language en-US
+[05/02/18, 19:53:20:191] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 19:53:20:193] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:20:221] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 19:53:20:221] info: Creating node-spellchecker instance
+[05/02/18, 19:53:21:669] info: Unloading spellchecker
+[05/02/18, 19:53:21:671] info: Unloading spellchecker
+[05/02/18, 19:53:21:679] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:21:679] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:22:474] info: Restoring spellchecker
+[05/02/18, 19:53:22:474] info: Loading dictionary for language en-US
+[05/02/18, 19:53:22:475] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 19:53:22:476] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:22:477] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:22:491] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 19:53:22:492] info: Creating node-spellchecker instance
+[05/02/18, 19:53:23:051] info: Unloading spellchecker
+[05/02/18, 19:53:23:052] info: Unloading spellchecker
+[05/02/18, 19:53:23:064] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:23:065] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:46:435] info: Restoring spellchecker
+[05/02/18, 19:53:46:436] info: Loading dictionary for language en-US
+[05/02/18, 19:53:46:436] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 19:53:46:438] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:46:440] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:46:474] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 19:53:46:474] info: Creating node-spellchecker instance
+[05/02/18, 19:53:58:158] info: Unloading spellchecker
+[05/02/18, 19:53:58:160] info: Unloading spellchecker
+[05/02/18, 19:53:58:161] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:53:58:162] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:18:051] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:54:18:051] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:54:18:055] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "gZJkcAOu3wKD6WEQ",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254857.000429&team=T9F21EKE2",
+  "msg": "1525254857.000429",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:54:21:454] info: Restoring spellchecker
+[05/02/18, 19:54:21:455] info: Loading dictionary for language en-US
+[05/02/18, 19:54:21:455] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 19:54:21:458] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:21:479] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:21:480] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 19:54:21:481] info: Creating node-spellchecker instance
+[05/02/18, 19:54:23:907] info: Unloading spellchecker
+[05/02/18, 19:54:23:910] info: Unloading spellchecker
+[05/02/18, 19:54:23:913] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:23:913] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:28:666] info: Restoring spellchecker
+[05/02/18, 19:54:28:666] info: Loading dictionary for language en-US
+[05/02/18, 19:54:28:667] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 19:54:28:668] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:28:685] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:28:689] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 19:54:28:689] info: Creating node-spellchecker instance
+[05/02/18, 19:54:32:776] info: Unloading spellchecker
+[05/02/18, 19:54:32:777] info: Unloading spellchecker
+[05/02/18, 19:54:32:778] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:32:791] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:33:708] info: Restoring spellchecker
+[05/02/18, 19:54:33:708] info: Loading dictionary for language en-US
+[05/02/18, 19:54:33:708] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 19:54:33:709] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:33:709] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:33:726] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 19:54:33:727] info: Creating node-spellchecker instance
+[05/02/18, 19:54:34:192] info: Unloading spellchecker
+[05/02/18, 19:54:34:195] info: Unloading spellchecker
+[05/02/18, 19:54:34:224] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:34:225] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:54:57:226] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:54:57:228] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:54:57:231] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "r8kYT8EhykQo3mRl",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254897.000010&team=T9F21EKE2",
+  "msg": "1525254897.000010",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:55:07:827] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:55:07:827] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:55:07:829] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "k8RoTOGs91NWylmm",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525254907.000327&team=T9F21EKE2",
+  "msg": "1525254907.000327",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 19:55:12:131] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "C9F21EML6",
+  "messageId": "1525254907.000327",
+  "notificationId": "k8RoTOGs91NWylmm",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 19:55:12:133] info: Store: SELECT_TEAM T9F21EKE2
+[05/02/18, 19:55:12:140] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:55:17:334] info: Restoring spellchecker
+[05/02/18, 19:55:17:334] info: Loading dictionary for language en-US
+[05/02/18, 19:55:17:335] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 19:55:17:336] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:55:17:337] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:55:17:337] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:55:17:360] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 19:55:17:361] info: Creating node-spellchecker instance
+[05/02/18, 19:55:25:434] info: Unloading spellchecker
+[05/02/18, 19:55:25:435] info: Unloading spellchecker
+[05/02/18, 19:55:25:447] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:55:25:447] info: Store: SET_FULL_SCREEN
+[05/02/18, 19:56:57:595] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:56:57:595] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 19:56:57:598] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "Gv69F15SQDYqBGl6",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525255017.000145&team=T9F21EKE2",
+  "msg": "1525255017.000145",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:05:34:527] info: Restoring spellchecker
+[05/02/18, 20:05:34:528] info: Loading dictionary for language en-US
+[05/02/18, 20:05:34:530] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:05:34:532] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:05:34:533] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:05:34:534] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:05:34:534] info: Creating node-spellchecker instance
+[05/02/18, 20:05:35:090] info: Unloading spellchecker
+[05/02/18, 20:05:35:091] info: Unloading spellchecker
+[05/02/18, 20:05:35:107] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:05:35:107] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:07:09:416] info: Restoring spellchecker
+[05/02/18, 20:07:09:416] info: Loading dictionary for language en-US
+[05/02/18, 20:07:09:417] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:07:09:419] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:07:09:420] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:07:09:432] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:07:09:432] info: Creating node-spellchecker instance
+[05/02/18, 20:07:12:629] info: Unloading spellchecker
+[05/02/18, 20:07:12:631] info: Unloading spellchecker
+[05/02/18, 20:07:12:634] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:07:12:634] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:09:28:235] info: Restoring spellchecker
+[05/02/18, 20:09:28:236] info: Loading dictionary for language en-US
+[05/02/18, 20:09:28:236] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:09:28:238] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:09:28:239] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:09:28:271] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:09:28:271] info: Creating node-spellchecker instance
+[05/02/18, 20:09:29:185] info: Unloading spellchecker
+[05/02/18, 20:09:29:187] info: Unloading spellchecker
+[05/02/18, 20:09:29:190] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:09:29:192] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:09:29:780] info: Restoring spellchecker
+[05/02/18, 20:09:29:781] info: Loading dictionary for language en-US
+[05/02/18, 20:09:29:781] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:09:29:782] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:09:29:783] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:09:29:802] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:09:29:802] info: Creating node-spellchecker instance
+[05/02/18, 20:09:29:966] info: Unloading spellchecker
+[05/02/18, 20:09:29:968] info: Unloading spellchecker
+[05/02/18, 20:09:29:984] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:09:29:985] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:11:10:217] info: Restoring spellchecker
+[05/02/18, 20:11:10:218] info: Loading dictionary for language en-US
+[05/02/18, 20:11:10:218] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:11:10:220] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:11:10:221] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:11:10:236] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:11:10:236] info: Creating node-spellchecker instance
+[05/02/18, 20:11:11:216] info: Unloading spellchecker
+[05/02/18, 20:11:11:217] info: Unloading spellchecker
+[05/02/18, 20:11:11:224] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:11:11:225] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:14:01:002] info: Restoring spellchecker
+[05/02/18, 20:14:01:003] info: Loading dictionary for language en-US
+[05/02/18, 20:14:01:003] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:14:01:004] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:14:01:022] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:14:01:037] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:14:01:037] info: Creating node-spellchecker instance
+[05/02/18, 20:14:02:205] info: Unloading spellchecker
+[05/02/18, 20:14:02:207] info: Unloading spellchecker
+[05/02/18, 20:14:02:209] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:14:02:210] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:16:14:735] info: Restoring spellchecker
+[05/02/18, 20:16:14:737] info: Loading dictionary for language en-US
+[05/02/18, 20:16:14:737] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:16:14:739] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:16:14:754] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:16:14:783] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:16:14:784] info: Creating node-spellchecker instance
+[05/02/18, 20:16:15:537] info: Unloading spellchecker
+[05/02/18, 20:16:15:538] info: Unloading spellchecker
+[05/02/18, 20:16:15:539] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:16:15:539] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:16:17:151] info: Restoring spellchecker
+[05/02/18, 20:16:17:151] info: Loading dictionary for language en-US
+[05/02/18, 20:16:17:151] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:16:17:153] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:16:17:155] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:16:17:188] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:16:17:188] info: Creating node-spellchecker instance
+[05/02/18, 20:16:18:940] info: Unloading spellchecker
+[05/02/18, 20:16:18:941] info: Unloading spellchecker
+[05/02/18, 20:16:18:942] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:16:18:965] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:30:16:993] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:30:16:993] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:30:17:004] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "yoPmTrouRYyXoygr",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257016.000372&team=T9F21EKE2",
+  "msg": "1525257016.000372",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:30:21:098] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "C9F21EML6",
+  "messageId": "1525257016.000372",
+  "notificationId": "yoPmTrouRYyXoygr",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 20:30:21:100] info: Store: SELECT_TEAM T9F21EKE2
+[05/02/18, 20:30:21:103] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:30:22:739] info: Restoring spellchecker
+[05/02/18, 20:30:22:739] info: Loading dictionary for language en-US
+[05/02/18, 20:30:22:740] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:30:22:741] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:30:22:758] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:30:22:758] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:30:22:759] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:30:22:759] info: Creating node-spellchecker instance
+[05/02/18, 20:30:43:408] info: Unloading spellchecker
+[05/02/18, 20:30:43:411] info: Unloading spellchecker
+[05/02/18, 20:30:43:413] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:30:43:414] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:30:44:244] info: Restoring spellchecker
+[05/02/18, 20:30:44:245] info: Loading dictionary for language en-US
+[05/02/18, 20:30:44:245] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:30:44:247] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:30:44:247] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:30:44:257] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:30:44:257] info: Creating node-spellchecker instance
+[05/02/18, 20:30:44:972] info: Unloading spellchecker
+[05/02/18, 20:30:44:974] info: Unloading spellchecker
+[05/02/18, 20:30:44:979] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:30:44:980] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:31:10:273] info: Restoring spellchecker
+[05/02/18, 20:31:10:274] info: Loading dictionary for language en-US
+[05/02/18, 20:31:10:274] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:31:10:276] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:31:10:276] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:31:10:290] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:31:10:290] info: Creating node-spellchecker instance
+[05/02/18, 20:31:15:042] info: Unloading spellchecker
+[05/02/18, 20:31:15:043] info: Unloading spellchecker
+[05/02/18, 20:31:15:053] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:31:15:054] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:31:45:791] info: Restoring spellchecker
+[05/02/18, 20:31:45:792] info: Loading dictionary for language en-US
+[05/02/18, 20:31:45:792] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:31:45:793] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:31:45:793] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:31:45:806] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:31:45:806] info: Creating node-spellchecker instance
+[05/02/18, 20:31:52:614] info: Unloading spellchecker
+[05/02/18, 20:31:52:617] info: Unloading spellchecker
+[05/02/18, 20:31:52:620] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:31:52:621] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:02:360] info: Restoring spellchecker
+[05/02/18, 20:32:02:361] info: Loading dictionary for language en-US
+[05/02/18, 20:32:02:361] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:32:02:362] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:02:363] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:02:381] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:32:02:381] info: Creating node-spellchecker instance
+[05/02/18, 20:32:03:283] info: Unloading spellchecker
+[05/02/18, 20:32:03:285] info: Unloading spellchecker
+[05/02/18, 20:32:03:293] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:03:293] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:10:993] info: Restoring spellchecker
+[05/02/18, 20:32:10:993] info: Loading dictionary for language en-US
+[05/02/18, 20:32:10:993] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:32:10:994] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:10:995] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:11:014] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:32:11:014] info: Creating node-spellchecker instance
+[05/02/18, 20:32:11:714] info: Unloading spellchecker
+[05/02/18, 20:32:11:716] info: Unloading spellchecker
+[05/02/18, 20:32:11:718] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:11:732] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:12:450] info: Restoring spellchecker
+[05/02/18, 20:32:12:450] info: Loading dictionary for language en-US
+[05/02/18, 20:32:12:451] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:32:12:452] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:12:453] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:12:466] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:32:12:466] info: Creating node-spellchecker instance
+[05/02/18, 20:32:12:633] info: Unloading spellchecker
+[05/02/18, 20:32:12:635] info: Unloading spellchecker
+[05/02/18, 20:32:12:652] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:32:12:653] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:33:45:994] info: Restoring spellchecker
+[05/02/18, 20:33:45:994] info: Loading dictionary for language en-US
+[05/02/18, 20:33:45:994] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:33:45:996] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:33:45:997] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:33:46:018] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:33:46:019] info: Creating node-spellchecker instance
+[05/02/18, 20:33:46:713] info: Unloading spellchecker
+[05/02/18, 20:33:46:715] info: Unloading spellchecker
+[05/02/18, 20:33:46:715] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:33:46:717] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:34:36:201] info: Restoring spellchecker
+[05/02/18, 20:34:36:202] info: Loading dictionary for language en-US
+[05/02/18, 20:34:36:202] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:34:36:204] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:34:36:205] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:34:36:218] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:34:36:219] info: Creating node-spellchecker instance
+[05/02/18, 20:34:37:094] info: Unloading spellchecker
+[05/02/18, 20:34:37:095] info: Unloading spellchecker
+[05/02/18, 20:34:37:122] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:34:37:123] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:34:58:817] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:34:58:819] info: Restoring spellchecker
+[05/02/18, 20:34:58:820] info: Loading dictionary for language en-US
+[05/02/18, 20:34:58:820] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:34:58:822] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:34:58:838] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:34:58:838] info: Creating node-spellchecker instance
+[05/02/18, 20:35:13:860] info: Unloading spellchecker
+[05/02/18, 20:35:13:862] info: Unloading spellchecker
+[05/02/18, 20:35:13:942] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:35:13:943] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:35:14:911] info: Restoring spellchecker
+[05/02/18, 20:35:14:912] info: Loading dictionary for language en-US
+[05/02/18, 20:35:14:912] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:35:14:912] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:35:14:913] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:35:15:000] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:35:15:000] info: Creating node-spellchecker instance
+[05/02/18, 20:35:17:258] info: Unloading spellchecker
+[05/02/18, 20:35:17:260] info: Unloading spellchecker
+[05/02/18, 20:35:17:319] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:35:17:320] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:00:980] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:36:00:980] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:36:00:984] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "gZJkcAWS3wKDMymk",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257360.000342&team=T9F21EKE2",
+  "msg": "1525257360.000342",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:36:06:304] info: Restoring spellchecker
+[05/02/18, 20:36:06:304] info: Loading dictionary for language en-US
+[05/02/18, 20:36:06:304] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:36:06:305] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:06:305] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:06:393] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:36:06:393] info: Creating node-spellchecker instance
+[05/02/18, 20:36:18:383] info: Unloading spellchecker
+[05/02/18, 20:36:18:385] info: Unloading spellchecker
+[05/02/18, 20:36:18:387] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:18:389] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:24:984] info: Restoring spellchecker
+[05/02/18, 20:36:24:984] info: Loading dictionary for language en-US
+[05/02/18, 20:36:24:984] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:36:24:986] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:25:038] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:25:041] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:36:25:041] info: Creating node-spellchecker instance
+[05/02/18, 20:36:26:750] info: Unloading spellchecker
+[05/02/18, 20:36:26:752] info: Unloading spellchecker
+[05/02/18, 20:36:26:753] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:26:760] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:29:910] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:36:29:911] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:36:29:928] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "K1r6t2YUAxngWZzD",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257389.000266&team=T9F21EKE2",
+  "msg": "1525257389.000266",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:36:31:084] info: Restoring spellchecker
+[05/02/18, 20:36:31:084] info: Loading dictionary for language en-US
+[05/02/18, 20:36:31:084] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:36:31:085] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:31:138] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:31:173] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:36:31:173] info: Creating node-spellchecker instance
+[05/02/18, 20:36:40:504] info: Unloading spellchecker
+[05/02/18, 20:36:40:506] info: Unloading spellchecker
+[05/02/18, 20:36:40:507] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:40:551] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:45:312] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:36:45:312] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:36:45:412] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "K1r6t2NcAxngW0PR",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257405.000081&team=T9F21EKE2",
+  "msg": "1525257405.000081",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:36:48:222] info: Restoring spellchecker
+[05/02/18, 20:36:48:222] info: Loading dictionary for language en-US
+[05/02/18, 20:36:48:223] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:36:48:224] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:48:224] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:48:266] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:36:48:266] info: Creating node-spellchecker instance
+[05/02/18, 20:36:59:506] info: Unloading spellchecker
+[05/02/18, 20:36:59:508] info: Unloading spellchecker
+[05/02/18, 20:36:59:554] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:36:59:554] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:37:00:246] info: Restoring spellchecker
+[05/02/18, 20:37:00:246] info: Loading dictionary for language en-US
+[05/02/18, 20:37:00:246] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:37:00:247] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:37:00:248] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:37:00:289] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:37:00:290] info: Creating node-spellchecker instance
+[05/02/18, 20:37:04:571] info: Unloading spellchecker
+[05/02/18, 20:37:04:572] info: Unloading spellchecker
+[05/02/18, 20:37:04:599] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:37:04:600] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:37:08:056] info: Restoring spellchecker
+[05/02/18, 20:37:08:056] info: Loading dictionary for language en-US
+[05/02/18, 20:37:08:057] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:37:08:057] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:37:08:058] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:37:08:094] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:37:08:094] info: Creating node-spellchecker instance
+[05/02/18, 20:37:48:279] info: Unloading spellchecker
+[05/02/18, 20:37:48:280] info: Unloading spellchecker
+[05/02/18, 20:37:48:309] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:37:48:310] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:38:03:596] info: Restoring spellchecker
+[05/02/18, 20:38:03:596] info: Loading dictionary for language en-US
+[05/02/18, 20:38:03:597] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:38:03:599] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:38:03:635] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:38:03:639] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:38:03:639] info: Creating node-spellchecker instance
+[05/02/18, 20:38:04:370] info: Unloading spellchecker
+[05/02/18, 20:38:04:373] info: Unloading spellchecker
+[05/02/18, 20:38:04:441] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:38:04:442] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:38:11:792] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:38:11:793] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:38:11:799] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "q7x2U8QHELvKDR32",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257491.000183&team=T9F21EKE2",
+  "msg": "1525257491.000183",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:38:26:074] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:38:26:075] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:38:26:080] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "vl2ju71SA6842M77",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257505.000297&team=T9F21EKE2",
+  "msg": "1525257505.000297",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:38:39:617] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:38:39:617] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:38:39:619] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "YWEMSL4tVqjoE9Lv",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257519.000155&team=T9F21EKE2",
+  "msg": "1525257519.000155",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:38:46:660] info: Restoring spellchecker
+[05/02/18, 20:38:46:661] info: Loading dictionary for language en-US
+[05/02/18, 20:38:46:661] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:38:46:663] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:38:46:699] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:38:46:700] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:38:46:701] info: Creating node-spellchecker instance
+[05/02/18, 20:38:50:164] info: Unloading spellchecker
+[05/02/18, 20:38:50:165] info: Unloading spellchecker
+[05/02/18, 20:38:50:166] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:38:50:216] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:38:57:538] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:38:57:538] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:38:57:667] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "BNBns74UjqrZ3n1D",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257537.000136&team=T9F21EKE2",
+  "msg": "1525257537.000136",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:39:13:716] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:13:716] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:13:718] info: Restoring spellchecker
+[05/02/18, 20:39:13:719] info: Loading dictionary for language en-US
+[05/02/18, 20:39:13:719] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:39:13:770] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:39:13:770] info: Creating node-spellchecker instance
+[05/02/18, 20:39:30:436] info: Unloading spellchecker
+[05/02/18, 20:39:30:439] info: Unloading spellchecker
+[05/02/18, 20:39:30:469] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:30:469] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:31:086] info: Restoring spellchecker
+[05/02/18, 20:39:31:086] info: Loading dictionary for language en-US
+[05/02/18, 20:39:31:086] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:39:31:087] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:31:087] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:31:169] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:39:31:169] info: Creating node-spellchecker instance
+[05/02/18, 20:39:32:268] info: Unloading spellchecker
+[05/02/18, 20:39:32:269] info: Unloading spellchecker
+[05/02/18, 20:39:32:271] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:32:316] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:39:572] info: Restoring spellchecker
+[05/02/18, 20:39:39:572] info: Loading dictionary for language en-US
+[05/02/18, 20:39:39:572] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:39:39:573] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:39:573] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:39:619] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:39:39:619] info: Creating node-spellchecker instance
+[05/02/18, 20:39:43:368] info: Unloading spellchecker
+[05/02/18, 20:39:43:371] info: Unloading spellchecker
+[05/02/18, 20:39:43:414] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:39:43:414] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:40:06:267] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:40:06:268] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:40:06:271] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "91r2tkycOXZALOAk",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257605.000399&team=T9F21EKE2",
+  "msg": "1525257605.000399",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:40:08:002] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:40:08:002] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:40:08:019] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "gZJkcAMt3wKDjEQ4",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257607.000261&team=T9F21EKE2",
+  "msg": "1525257607.000261",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:40:09:785] info: Restoring spellchecker
+[05/02/18, 20:40:09:785] info: Loading dictionary for language en-US
+[05/02/18, 20:40:09:785] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:40:09:786] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:40:09:786] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:40:09:839] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:40:09:839] info: Creating node-spellchecker instance
+[05/02/18, 20:40:53:690] info: Unloading spellchecker
+[05/02/18, 20:40:53:691] info: Unloading spellchecker
+[05/02/18, 20:40:53:694] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:40:53:695] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:40:58:090] info: Restoring spellchecker
+[05/02/18, 20:40:58:091] info: Loading dictionary for language en-US
+[05/02/18, 20:40:58:091] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:40:58:093] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:40:58:093] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:40:58:094] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:40:58:094] info: Creating node-spellchecker instance
+[05/02/18, 20:41:01:023] info: Unloading spellchecker
+[05/02/18, 20:41:01:026] info: Unloading spellchecker
+[05/02/18, 20:41:01:028] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:01:029] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:02:260] info: Restoring spellchecker
+[05/02/18, 20:41:02:260] info: Loading dictionary for language en-US
+[05/02/18, 20:41:02:260] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:41:02:261] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:02:262] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:02:263] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:41:02:263] info: Creating node-spellchecker instance
+[05/02/18, 20:41:13:241] info: Unloading spellchecker
+[05/02/18, 20:41:13:243] info: Unloading spellchecker
+[05/02/18, 20:41:13:244] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:13:247] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:13:626] info: Restoring spellchecker
+[05/02/18, 20:41:13:627] info: Loading dictionary for language en-US
+[05/02/18, 20:41:13:627] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:41:13:631] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:13:633] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:13:633] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:41:13:633] info: Creating node-spellchecker instance
+[05/02/18, 20:41:14:146] info: Unloading spellchecker
+[05/02/18, 20:41:14:149] info: Unloading spellchecker
+[05/02/18, 20:41:14:150] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:14:150] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:15:275] info: Restoring spellchecker
+[05/02/18, 20:41:15:276] info: Loading dictionary for language en-US
+[05/02/18, 20:41:15:276] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:41:15:278] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:15:321] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:15:323] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:41:15:323] info: Creating node-spellchecker instance
+[05/02/18, 20:41:18:010] info: Unloading spellchecker
+[05/02/18, 20:41:18:011] info: Unloading spellchecker
+[05/02/18, 20:41:18:015] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:18:016] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:18:546] info: Restoring spellchecker
+[05/02/18, 20:41:18:547] info: Loading dictionary for language en-US
+[05/02/18, 20:41:18:547] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:41:18:549] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:18:550] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:18:593] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:41:18:593] info: Creating node-spellchecker instance
+[05/02/18, 20:41:18:737] info: Unloading spellchecker
+[05/02/18, 20:41:18:739] info: Unloading spellchecker
+[05/02/18, 20:41:18:742] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:18:742] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:21:403] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:41:21:403] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:41:21:416] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "oV2Ocrgh6A7XPPjG",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257681.000017&team=T9F21EKE2",
+  "msg": "1525257681.000017",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:41:26:151] info: Restoring spellchecker
+[05/02/18, 20:41:26:151] info: Loading dictionary for language en-US
+[05/02/18, 20:41:26:151] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:41:26:153] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:26:192] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:26:195] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:41:26:195] info: Creating node-spellchecker instance
+[05/02/18, 20:41:54:446] info: Unloading spellchecker
+[05/02/18, 20:41:54:449] info: Unloading spellchecker
+[05/02/18, 20:41:54:493] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:54:493] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:55:100] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:41:55:100] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:41:55:103] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "gZJkcAzC3wKprAO1",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257714.000338&team=T9F21EKE2",
+  "msg": "1525257714.000338",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:41:55:508] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:41:55:508] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:41:55:512] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "jZRncjMs78xkPE5y",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257715.000088&team=T9F21EKE2",
+  "msg": "1525257715.000088",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:41:55:697] info: Restoring spellchecker
+[05/02/18, 20:41:55:697] info: Loading dictionary for language en-US
+[05/02/18, 20:41:55:697] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:41:55:698] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:55:698] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:41:55:751] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:41:55:751] info: Creating node-spellchecker instance
+[05/02/18, 20:42:27:299] info: Unloading spellchecker
+[05/02/18, 20:42:27:301] info: Unloading spellchecker
+[05/02/18, 20:42:27:304] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:42:27:304] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:42:28:119] info: Restoring spellchecker
+[05/02/18, 20:42:28:120] info: Loading dictionary for language en-US
+[05/02/18, 20:42:28:120] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:42:28:122] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:42:28:123] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:42:28:161] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:42:28:161] info: Creating node-spellchecker instance
+[05/02/18, 20:42:29:846] info: Unloading spellchecker
+[05/02/18, 20:42:29:847] info: Unloading spellchecker
+[05/02/18, 20:42:29:847] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:42:29:848] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:42:45:672] info: Restoring spellchecker
+[05/02/18, 20:42:45:672] info: Loading dictionary for language en-US
+[05/02/18, 20:42:45:672] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:42:45:673] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:42:45:674] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:42:45:713] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:42:45:713] info: Creating node-spellchecker instance
+[05/02/18, 20:42:46:402] info: Unloading spellchecker
+[05/02/18, 20:42:46:404] info: Unloading spellchecker
+[05/02/18, 20:42:46:406] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:42:46:407] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:42:59:287] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:42:59:287] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:42:59:290] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "BNBnsV7hjqroz1zP",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257779.000010&team=T9F21EKE2",
+  "msg": "1525257779.000010",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:43:02:628] info: Restoring spellchecker
+[05/02/18, 20:43:02:629] info: Loading dictionary for language en-US
+[05/02/18, 20:43:02:630] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:43:02:632] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:02:632] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:02:690] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:43:02:690] info: Creating node-spellchecker instance
+[05/02/18, 20:43:08:320] info: Unloading spellchecker
+[05/02/18, 20:43:08:322] info: Unloading spellchecker
+[05/02/18, 20:43:08:323] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:08:324] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:10:730] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:43:10:730] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:43:10:836] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "4Qx9uJJfWGNgO5p8",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257790.000252&team=T9F21EKE2",
+  "msg": "1525257790.000252",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:43:13:803] info: Restoring spellchecker
+[05/02/18, 20:43:13:804] info: Loading dictionary for language en-US
+[05/02/18, 20:43:13:804] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:43:13:805] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:13:861] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:13:897] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:43:13:897] info: Creating node-spellchecker instance
+[05/02/18, 20:43:46:379] info: Unloading spellchecker
+[05/02/18, 20:43:46:381] info: Unloading spellchecker
+[05/02/18, 20:43:46:446] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:46:447] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:46:894] info: Restoring spellchecker
+[05/02/18, 20:43:46:895] info: Loading dictionary for language en-US
+[05/02/18, 20:43:46:895] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:43:46:895] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:46:896] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:46:935] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:43:46:935] info: Creating node-spellchecker instance
+[05/02/18, 20:43:47:065] info: Unloading spellchecker
+[05/02/18, 20:43:47:066] info: Unloading spellchecker
+[05/02/18, 20:43:47:122] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:47:122] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:47:943] info: Restoring spellchecker
+[05/02/18, 20:43:47:943] info: Loading dictionary for language en-US
+[05/02/18, 20:43:47:943] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:43:47:944] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:47:944] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:47:979] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:43:47:980] info: Creating node-spellchecker instance
+[05/02/18, 20:43:48:099] info: Unloading spellchecker
+[05/02/18, 20:43:48:100] info: Unloading spellchecker
+[05/02/18, 20:43:48:144] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:48:144] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:57:032] info: Restoring spellchecker
+[05/02/18, 20:43:57:032] info: Loading dictionary for language en-US
+[05/02/18, 20:43:57:032] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:43:57:032] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:57:033] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:57:075] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:43:57:075] info: Creating node-spellchecker instance
+[05/02/18, 20:43:57:686] info: Unloading spellchecker
+[05/02/18, 20:43:57:686] info: Unloading spellchecker
+[05/02/18, 20:43:57:729] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:43:57:729] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:44:02:580] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:44:02:580] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:44:02:583] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "QnWOT6XFkWQExBDN",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257842.000147&team=T9F21EKE2",
+  "msg": "1525257842.000147",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:44:37:032] info: Restoring spellchecker
+[05/02/18, 20:44:37:033] info: Loading dictionary for language en-US
+[05/02/18, 20:44:37:033] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:44:37:033] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:44:37:033] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:44:37:068] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:44:37:068] info: Creating node-spellchecker instance
+[05/02/18, 20:44:37:524] info: Unloading spellchecker
+[05/02/18, 20:44:37:526] info: Unloading spellchecker
+[05/02/18, 20:44:37:579] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:44:37:579] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:45:01:197] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:45:01:197] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:45:01:203] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": null,
+  "channel": "C9P070QNL",
+  "content": "[REDACTED]",
+  "id": "91r2tmRFOXZ6Ezkk",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9P070QNL&message=1525257900.000466&team=T9F21EKE2",
+  "msg": "1525257900.000466",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:45:11:045] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:45:12:728] info: Restoring spellchecker
+[05/02/18, 20:45:12:729] info: Loading dictionary for language en-US
+[05/02/18, 20:45:12:729] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:45:12:790] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:45:12:861] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:45:12:861] info: Creating node-spellchecker instance
+[05/02/18, 20:46:36:371] info: Unloading spellchecker
+[05/02/18, 20:46:36:374] info: Unloading spellchecker
+[05/02/18, 20:46:36:376] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:36:377] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:37:197] info: Restoring spellchecker
+[05/02/18, 20:46:37:198] info: Loading dictionary for language en-US
+[05/02/18, 20:46:37:198] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:46:37:200] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:37:200] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:37:274] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:46:37:274] info: Creating node-spellchecker instance
+[05/02/18, 20:46:37:356] info: Unloading spellchecker
+[05/02/18, 20:46:37:358] info: Unloading spellchecker
+[05/02/18, 20:46:37:363] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:37:364] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:37:792] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:46:37:792] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:46:37:811] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "91r2tmYHOXZ636g2",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525257997.000287&team=T9F21EKE2",
+  "msg": "1525257997.000287",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:46:41:665] info: Restoring spellchecker
+[05/02/18, 20:46:41:666] info: Loading dictionary for language en-US
+[05/02/18, 20:46:41:666] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:46:41:667] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:41:724] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:41:761] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:46:41:762] info: Creating node-spellchecker instance
+[05/02/18, 20:46:41:872] info: Unloading spellchecker
+[05/02/18, 20:46:41:873] info: Unloading spellchecker
+[05/02/18, 20:46:41:924] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:41:924] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:42:358] info: Restoring spellchecker
+[05/02/18, 20:46:42:358] info: Loading dictionary for language en-US
+[05/02/18, 20:46:42:358] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:46:42:359] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:42:359] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:46:42:396] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:46:42:396] info: Creating node-spellchecker instance
+[05/02/18, 20:47:09:633] info: Unloading spellchecker
+[05/02/18, 20:47:09:635] info: Unloading spellchecker
+[05/02/18, 20:47:09:635] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:47:09:635] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:47:11:924] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:47:11:924] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:47:11:927] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "Gv69FJAtQDY2QQlK",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258031.000316&team=T9F21EKE2",
+  "msg": "1525258031.000316",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:47:24:815] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:47:24:815] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:47:24:834] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FNM0E1L-a2edf622b072-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "jZRncjGS78xk7gxP",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258044.000222&team=T9F21EKE2",
+  "msg": "1525258044.000222",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:47:46:868] info: Restoring spellchecker
+[05/02/18, 20:47:46:869] info: Loading dictionary for language en-US
+[05/02/18, 20:47:46:869] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:47:46:872] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:47:46:874] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:47:46:953] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:47:46:953] info: Creating node-spellchecker instance
+[05/02/18, 20:48:00:717] info: Unloading spellchecker
+[05/02/18, 20:48:00:718] info: Unloading spellchecker
+[05/02/18, 20:48:00:752] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:00:753] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:02:094] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:48:02:094] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:48:02:113] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "p8YzTzvTGlkrGr6V",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258081.000294&team=T9F21EKE2",
+  "msg": "1525258081.000294",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:48:02:882] info: Restoring spellchecker
+[05/02/18, 20:48:02:882] info: Loading dictionary for language en-US
+[05/02/18, 20:48:02:883] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:48:02:887] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:02:928] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:02:963] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:48:02:964] info: Creating node-spellchecker instance
+[05/02/18, 20:48:07:571] info: Unloading spellchecker
+[05/02/18, 20:48:07:573] info: Unloading spellchecker
+[05/02/18, 20:48:07:574] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:07:574] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:33:378] info: Restoring spellchecker
+[05/02/18, 20:48:33:379] info: Loading dictionary for language en-US
+[05/02/18, 20:48:33:379] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:48:33:382] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:33:466] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:33:469] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:48:33:469] info: Creating node-spellchecker instance
+[05/02/18, 20:48:53:544] info: Unloading spellchecker
+[05/02/18, 20:48:53:545] info: Unloading spellchecker
+[05/02/18, 20:48:53:546] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:53:546] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:56:359] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:48:56:359] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:48:56:363] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "r8kYTA6iykQqj0rB",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258136.000054&team=T9F21EKE2",
+  "msg": "1525258136.000054",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:48:59:800] info: Restoring spellchecker
+[05/02/18, 20:48:59:801] info: Loading dictionary for language en-US
+[05/02/18, 20:48:59:801] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:48:59:805] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:59:884] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:48:59:894] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:48:59:894] info: Creating node-spellchecker instance
+[05/02/18, 20:49:26:050] info: Unloading spellchecker
+[05/02/18, 20:49:26:051] info: Unloading spellchecker
+[05/02/18, 20:49:26:051] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:49:26:051] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:49:33:402] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:49:33:402] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:49:33:405] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "QnWOT6JfkWQErmo2",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258173.000082&team=T9F21EKE2",
+  "msg": "1525258173.000082",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:49:35:600] info: Restoring spellchecker
+[05/02/18, 20:49:35:601] info: Loading dictionary for language en-US
+[05/02/18, 20:49:35:601] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:49:35:603] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:49:35:604] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:49:35:734] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:49:35:735] info: Creating node-spellchecker instance
+[05/02/18, 20:49:54:308] info: Unloading spellchecker
+[05/02/18, 20:49:54:309] info: Unloading spellchecker
+[05/02/18, 20:49:54:310] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:49:54:310] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:50:19:127] info: Restoring spellchecker
+[05/02/18, 20:50:19:128] info: Loading dictionary for language en-US
+[05/02/18, 20:50:19:128] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:50:19:130] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:50:19:130] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:50:19:186] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:50:19:186] info: Creating node-spellchecker instance
+[05/02/18, 20:51:11:535] info: Unloading spellchecker
+[05/02/18, 20:51:11:536] info: Unloading spellchecker
+[05/02/18, 20:51:11:581] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:51:11:581] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:51:12:626] info: Restoring spellchecker
+[05/02/18, 20:51:12:626] info: Loading dictionary for language en-US
+[05/02/18, 20:51:12:627] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:51:12:630] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:51:12:683] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:51:12:685] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:51:12:685] info: Creating node-spellchecker instance
+[05/02/18, 20:51:15:307] info: Unloading spellchecker
+[05/02/18, 20:51:15:387] info: Unloading spellchecker
+[05/02/18, 20:51:15:387] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:51:15:388] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:51:34:944] info: Restoring spellchecker
+[05/02/18, 20:51:34:945] info: Loading dictionary for language en-US
+[05/02/18, 20:51:34:945] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:51:34:948] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:51:35:025] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:51:35:076] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:51:35:076] info: Creating node-spellchecker instance
+[05/02/18, 20:51:36:409] info: Unloading spellchecker
+[05/02/18, 20:51:36:410] info: Unloading spellchecker
+[05/02/18, 20:51:36:410] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:51:36:411] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:52:11:759] info: Restoring spellchecker
+[05/02/18, 20:52:11:760] info: Loading dictionary for language en-US
+[05/02/18, 20:52:11:761] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:52:11:764] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:52:11:828] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:52:11:876] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:52:11:876] info: Creating node-spellchecker instance
+[05/02/18, 20:52:12:114] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:52:12:114] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:52:12:116] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "D9ED2JVNY",
+  "content": "[REDACTED]",
+  "id": "RO6LTrofOw0JQKZM",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=D9ED2JVNY&message=1525258331.000407&team=T9F21EKE2",
+  "msg": "1525258331.000407",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:52:13:972] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "D9ED2JVNY",
+  "messageId": "1525258331.000407",
+  "notificationId": "RO6LTrofOw0JQKZM",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 20:52:13:976] info: Store: SELECT_TEAM T9F21EKE2
+[05/02/18, 20:52:14:031] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/02/18, 20:52:14:281] info: Loading dictionary for language en-US
+[05/02/18, 20:52:14:282] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:52:14:284] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:53:11:605] info: Unloading spellchecker
+[05/02/18, 20:53:11:609] info: Unloading spellchecker
+[05/02/18, 20:53:11:610] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:11:610] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:12:955] info: Restoring spellchecker
+[05/02/18, 20:53:12:956] info: Loading dictionary for language en-US
+[05/02/18, 20:53:12:956] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:53:12:960] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:12:971] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:12:972] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:53:12:972] info: Creating node-spellchecker instance
+[05/02/18, 20:53:13:480] info: Unloading spellchecker
+[05/02/18, 20:53:13:503] info: Unloading spellchecker
+[05/02/18, 20:53:13:503] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:13:504] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:14:230] info: Restoring spellchecker
+[05/02/18, 20:53:14:231] info: Loading dictionary for language en-US
+[05/02/18, 20:53:14:231] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:53:14:233] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:14:234] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:14:252] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:53:14:252] info: Creating node-spellchecker instance
+[05/02/18, 20:53:23:453] info: Unloading spellchecker
+[05/02/18, 20:53:23:454] info: Unloading spellchecker
+[05/02/18, 20:53:23:472] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:23:473] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:32:423] info: Restoring spellchecker
+[05/02/18, 20:53:32:424] info: Loading dictionary for language en-US
+[05/02/18, 20:53:32:425] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:53:32:442] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:32:443] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:53:32:446] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:53:32:446] info: Creating node-spellchecker instance
+[05/02/18, 20:54:54:768] info: Unloading spellchecker
+[05/02/18, 20:54:54:769] info: Unloading spellchecker
+[05/02/18, 20:54:54:797] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:54:54:798] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:54:55:464] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:54:55:469] info: Restoring spellchecker
+[05/02/18, 20:54:55:469] info: Loading dictionary for language en-US
+[05/02/18, 20:54:55:470] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:54:55:483] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:54:55:485] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:54:55:486] info: Creating node-spellchecker instance
+[05/02/18, 20:54:58:042] info: Unloading spellchecker
+[05/02/18, 20:54:58:049] info: Unloading spellchecker
+[05/02/18, 20:54:58:050] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:54:58:050] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:54:59:262] info: Restoring spellchecker
+[05/02/18, 20:54:59:263] info: Loading dictionary for language en-US
+[05/02/18, 20:54:59:264] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:54:59:266] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:54:59:277] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:54:59:282] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:54:59:282] info: Creating node-spellchecker instance
+[05/02/18, 20:54:59:391] info: Unloading spellchecker
+[05/02/18, 20:54:59:391] info: Unloading spellchecker
+[05/02/18, 20:54:59:392] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:54:59:392] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:55:04:239] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:55:04:240] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:55:04:244] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "D9ED2JVNY",
+  "content": "[REDACTED]",
+  "id": "Mw89t5jsW8PxOZoo",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=D9ED2JVNY&message=1525258504.000060&team=T9F21EKE2",
+  "msg": "1525258504.000060",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:55:06:622] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "D9ED2JVNY",
+  "messageId": "1525258504.000060",
+  "notificationId": "Mw89t5jsW8PxOZoo",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 20:55:06:623] info: Store: SELECT_TEAM T9F21EKE2
+[05/02/18, 20:55:06:626] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:55:08:673] info: Restoring spellchecker
+[05/02/18, 20:55:08:674] info: Loading dictionary for language en-US
+[05/02/18, 20:55:08:674] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:55:08:676] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:55:08:693] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:55:08:694] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:55:08:731] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:55:08:731] info: Creating node-spellchecker instance
+[05/02/18, 20:55:21:116] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:55:21:116] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:55:21:120] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "yoPmTNEFRYymxjxZ",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258520.000437&team=T9F21EKE2",
+  "msg": "1525258520.000437",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:55:29:995] info: Store: SELECT_CHANNEL C9E929VPV
+[05/02/18, 20:55:30:660] info: Store: SELECT_CHANNEL C9F21EML6
+[05/02/18, 20:55:30:915] info: Loading dictionary for language en-US
+[05/02/18, 20:55:30:915] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:55:30:919] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:55:32:111] info: Loading dictionary for language en-US
+[05/02/18, 20:55:32:111] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:55:32:115] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:55:35:079] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:55:35:079] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:55:35:082] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "D9ED2JVNY",
+  "content": "[REDACTED]",
+  "id": "lxYpsoqsqxg6NBJv",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=D9ED2JVNY&message=1525258534.000400&team=T9F21EKE2",
+  "msg": "1525258534.000400",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:55:37:351] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:55:37:351] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:55:37:353] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "D9ED2JVNY",
+  "content": "[REDACTED]",
+  "id": "D1k0tB6FZNBgnW2J",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=D9ED2JVNY&message=1525258537.000066&team=T9F21EKE2",
+  "msg": "1525258537.000066",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:55:43:600] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/02/18, 20:55:43:901] info: Loading dictionary for language en-US
+[05/02/18, 20:55:43:901] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:55:43:902] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:56:07:470] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:56:07:470] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:56:07:473] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "mOZET5EF9X3qLxDK",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258567.000144&team=T9F21EKE2",
+  "msg": "1525258567.000144",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:56:30:786] info: Store: SELECT_CHANNEL C9F21EML6
+[05/02/18, 20:56:31:044] info: Loading dictionary for language en-US
+[05/02/18, 20:56:31:045] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:56:31:046] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:56:39:603] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:56:39:603] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:56:39:605] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "D9ED2JVNY",
+  "content": "[REDACTED]",
+  "id": "q7x2UOlSELv0pRAk",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=D9ED2JVNY&message=1525258599.000228&team=T9F21EKE2",
+  "msg": "1525258599.000228",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:56:53:826] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/02/18, 20:56:54:125] info: Loading dictionary for language en-US
+[05/02/18, 20:56:54:125] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:56:54:126] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:57:15:946] info: Unloading spellchecker
+[05/02/18, 20:57:15:950] info: Unloading spellchecker
+[05/02/18, 20:57:15:951] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:57:15:952] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:57:18:632] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:57:18:632] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:57:18:636] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "D1k0tBvSZNBgv81V",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258638.000231&team=T9F21EKE2",
+  "msg": "1525258638.000231",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:57:19:531] info: Restoring spellchecker
+[05/02/18, 20:57:19:532] info: Loading dictionary for language en-US
+[05/02/18, 20:57:19:532] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:57:19:549] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:57:19:550] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:57:19:552] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:57:19:552] info: Creating node-spellchecker instance
+[05/02/18, 20:57:22:105] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "C9F21EML6",
+  "messageId": "1525258638.000231",
+  "notificationId": "D1k0tBvSZNBgv81V",
+  "teamId": "T9F21EKE2"
+}
+[05/02/18, 20:57:22:108] info: Store: SELECT_TEAM T9F21EKE2
+[05/02/18, 20:57:22:130] info: Store: SELECT_CHANNEL C9F21EML6
+[05/02/18, 20:57:22:460] info: Loading dictionary for language en-US
+[05/02/18, 20:57:22:461] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:57:22:461] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:57:30:857] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:57:30:857] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:57:30:860] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "D9ED2JVNY",
+  "content": "[REDACTED]",
+  "id": "BNBnsVoujqroPX7o",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=D9ED2JVNY&message=1525258650.000317&team=T9F21EKE2",
+  "msg": "1525258650.000317",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:57:38:032] info: Unloading spellchecker
+[05/02/18, 20:57:38:033] info: Unloading spellchecker
+[05/02/18, 20:57:38:047] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:57:38:047] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:57:40:362] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:57:40:363] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:57:40:373] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "L79PUPAUmnK9A2jV",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258660.000088&team=T9F21EKE2",
+  "msg": "1525258660.000088",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:57:53:587] info: Restoring spellchecker
+[05/02/18, 20:57:53:587] info: Loading dictionary for language en-US
+[05/02/18, 20:57:53:587] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:57:53:607] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:57:53:608] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:57:53:627] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:57:53:627] info: Creating node-spellchecker instance
+[05/02/18, 20:58:03:919] info: Unloading spellchecker
+[05/02/18, 20:58:03:920] info: Unloading spellchecker
+[05/02/18, 20:58:03:952] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:03:953] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:06:408] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:58:06:408] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:58:06:411] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "ANDms9vHYKOVwKZj",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258686.000125&team=T9F21EKE2",
+  "msg": "1525258686.000125",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:58:12:929] info: Restoring spellchecker
+[05/02/18, 20:58:12:929] info: Loading dictionary for language en-US
+[05/02/18, 20:58:12:931] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:58:12:932] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:12:932] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:12:960] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:58:12:960] info: Creating node-spellchecker instance
+[05/02/18, 20:58:16:435] info: Unloading spellchecker
+[05/02/18, 20:58:16:439] info: Unloading spellchecker
+[05/02/18, 20:58:16:466] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:16:471] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:22:767] info: Restoring spellchecker
+[05/02/18, 20:58:22:767] info: Loading dictionary for language en-US
+[05/02/18, 20:58:22:768] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:58:22:769] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:22:769] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:22:782] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:58:22:782] info: Creating node-spellchecker instance
+[05/02/18, 20:58:27:304] warn: SpellChecker::updateDetectedLanguage: cld could not detect language correctly, empty result returned
+[05/02/18, 20:58:35:776] info: Unloading spellchecker
+[05/02/18, 20:58:35:778] info: Unloading spellchecker
+[05/02/18, 20:58:35:803] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:35:804] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:43:286] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:58:43:286] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:58:43:301] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "RO6LTrxTOw0JvXKx",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258723.000085&team=T9F21EKE2",
+  "msg": "1525258723.000085",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:58:45:472] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:58:45:473] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:58:45:476] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "D9ED2JVNY",
+  "content": "[REDACTED]",
+  "id": "ANDms9RSYKOVJX7m",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=D9ED2JVNY&message=1525258725.000167&team=T9F21EKE2",
+  "msg": "1525258725.000167",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:58:46:033] info: Restoring spellchecker
+[05/02/18, 20:58:46:033] info: Loading dictionary for language en-US
+[05/02/18, 20:58:46:033] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:58:46:035] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:46:048] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:58:46:074] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:58:46:074] info: Creating node-spellchecker instance
+[05/02/18, 20:58:50:506] info: SpellChecker::updateDetectedLanguage: newly detected language is not reliable, skipping
+{
+  "language": "lb",
+  "probability": 0.5999550819396973,
+  "is_reliable": false,
+  "proportion": 1
+}
+[05/02/18, 20:58:51:888] info: SpellChecker::updateDetectedLanguage: newly detected language is not reliable, skipping
+{
+  "language": "lb",
+  "probability": 0.6803317070007324,
+  "is_reliable": false,
+  "proportion": 1
+}
+[05/02/18, 20:59:01:908] info: Unloading spellchecker
+[05/02/18, 20:59:01:909] info: Unloading spellchecker
+[05/02/18, 20:59:01:919] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:59:01:920] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:59:05:246] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:59:05:246] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:59:05:248] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "jZRncj0t78xk2OAo",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258745.000052&team=T9F21EKE2",
+  "msg": "1525258745.000052",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/02/18, 20:59:06:897] info: Restoring spellchecker
+[05/02/18, 20:59:06:898] info: Loading dictionary for language en-US
+[05/02/18, 20:59:06:898] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:59:06:900] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:59:06:914] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:59:06:938] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:59:06:938] info: Creating node-spellchecker instance
+[05/02/18, 20:59:21:159] info: Unloading spellchecker
+[05/02/18, 20:59:21:160] info: Unloading spellchecker
+[05/02/18, 20:59:21:172] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:59:21:172] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:59:21:786] info: SpellChecker::updateDetectedLanguage: newly detected language is not reliable, skipping
+{
+  "language": "lb",
+  "probability": 0.6772484183311462,
+  "is_reliable": false,
+  "proportion": 1
+}
+[05/02/18, 20:59:23:373] info: Restoring spellchecker
+[05/02/18, 20:59:23:373] info: Loading dictionary for language en-US
+[05/02/18, 20:59:23:373] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/02/18, 20:59:23:375] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:59:23:375] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:59:23:385] info: Setting current spellchecker to en-US, requested language was en-US
+[05/02/18, 20:59:23:385] info: Creating node-spellchecker instance
+[05/02/18, 20:59:31:191] info: Unloading spellchecker
+[05/02/18, 20:59:31:192] info: Unloading spellchecker
+[05/02/18, 20:59:31:212] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:59:31:213] info: Store: SET_FULL_SCREEN
+[05/02/18, 20:59:43:054] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:59:43:055] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/02/18, 20:59:43:064] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "QnWOT6vikWQE53j9",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525258782.000376&team=T9F21EKE2",
+  "msg": "1525258782.000376",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}

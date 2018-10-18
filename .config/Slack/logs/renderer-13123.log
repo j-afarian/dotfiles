@@ -1,0 +1,469 @@
+[05/12/18, 11:04:13:145] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[05/12/18, 11:04:13:145] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 05/12/18, 11:04:13:142      ║
+[05/12/18, 11:04:13:145] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[05/12/18, 11:04:13:218] info: Initializing local storage instance at path: /home/bella/.config/Slack/local-settings.json
+[05/12/18, 11:04:13:530] info: cld3::loadModule: loading cld3 module
+[05/12/18, 11:04:13:550] info: cld3Loader::loadModule: running environment is NODE
+[05/12/18, 11:04:13:550] info: cld3Loader::loadModule: constructed module object for runtime
+[05/12/18, 11:04:13:675] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/12/18, 11:04:13:675] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/12/18, 11:04:13:679] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/12/18, 11:04:13:679] info: SSBIntegration: Main window preload script loaded 790.03893
+[05/12/18, 11:04:16:859] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 11:04:16:864] info: Store: MAIN_WINDOW_SHOWN
+[05/12/18, 11:04:16:883] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:16:884] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:16:891] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:17:250] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 11:04:18:357] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    58
+  ],
+  "size": [
+    1440,
+    842
+  ]
+}
+[05/12/18, 11:04:18:359] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/12/18, 11:04:18:360] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 11:04:18:362] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/12/18, 11:04:18:364] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9F21EKE2",
+  "theme": {
+    "active_item": "#2D9EE0",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#60D156",
+    "badge": "#DC5960",
+    "column_bg": "#F8F8FA",
+    "hover_item": "#FFFFFF",
+    "menu_bg": "#F8F8FA",
+    "text_color": "#383F45"
+  }
+}
+[05/12/18, 11:04:18:537] info: postLoadTaskSetup: Desktop client fully loaded
+{
+  "loadedTime": 9791.222124
+}
+[05/12/18, 11:04:18:575] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:18:706] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 11:04:18:707] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 11:04:18:793] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:18:793] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:19:244] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:19:246] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:19:266] info: Raw Locale list: ["bg_BG.utf8","C","ca_AD.utf8","ca_ES.utf8","ca_ES.utf8@valencia","ca_FR.utf8","ca_IT.utf8","cs_CZ.utf8","C.UTF-8","da_DK.utf8","de_AT.utf8","de_BE.utf8","de_CH.utf8","de_DE.utf8","de_LI.utf8","de_LU.utf8","en_AG","en_AG.utf8","en_AU.utf8","en_BW.utf8","en_CA.utf8","en_DK.utf8","en_GB.utf8","en_HK.utf8","en_IE.utf8","en_IN","en_IN.utf8","en_NG","en_NG.utf8","en_NZ.utf8","en_PH.utf8","en_SG.utf8","en_US.utf8","en_ZA.utf8","en_ZM","en_ZM.utf8","en_ZW.utf8","es_AR.utf8","es_BO.utf8","es_CL.utf8","es_CO.utf8","es_CR.utf8","es_CU","es_CU.utf8","es_DO.utf8","es_EC.utf8","es_ES.utf8","es_GT.utf8","es_HN.utf8","es_MX.utf8","es_NI.utf8","es_PA.utf8","es_PE.utf8","es_PR.utf8","es_PY.utf8","es_SV.utf8","es_US.utf8","es_UY.utf8","es_VE.utf8","fr_BE.utf8","fr_CA.utf8","fr_CH.utf8","fr_FR.utf8","fr_LU.utf8","hu_HU.utf8","id_ID.utf8","it_CH.utf8","it_IT.utf8","ja_JP.utf8","ko_KR.utf8","nb_NO.utf8","nl_AW","nl_AW.utf8","nl_BE.utf8","nl_NL.utf8","pl_PL.utf8","POSIX","pt_BR.utf8","pt_PT.utf8","ru_RU.utf8","ru_UA.utf8","sv_FI.utf8","sv_SE.utf8","th_TH.utf8","tr_CY.utf8","tr_TR.utf8","uk_UA.utf8","vi_VN","vi_VN.utf8","zh_CN.utf8","zh_HK.utf8","zh_SG.utf8","zh_TW.utf8",""]
+[05/12/18, 11:04:19:266] info: Filtered Locale list: ["bg_BG","ca_AD","ca_ES","ca_ES","ca_FR","ca_IT","cs_CZ","da_DK","de_AT","de_BE","de_CH","de_DE","de_LI","de_LU","en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW","es_AR","es_BO","es_CL","es_CO","es_CR","es_CU","es_CU","es_DO","es_EC","es_ES","es_GT","es_HN","es_MX","es_NI","es_PA","es_PE","es_PR","es_PY","es_SV","es_US","es_UY","es_VE","fr_BE","fr_CA","fr_CH","fr_FR","fr_LU","hu_HU","id_ID","it_CH","it_IT","ja_JP","ko_KR","nb_NO","nl_AW","nl_AW","nl_BE","nl_NL","pl_PL","pt_BR","pt_PT","ru_RU","ru_UA","sv_FI","sv_SE","th_TH","tr_CY","tr_TR","uk_UA","vi_VN","vi_VN","zh_CN","zh_HK","zh_SG","zh_TW"]
+[05/12/18, 11:04:19:267] info: Counts: {"bg":["bg_BG"],"ca":["ca_AD","ca_ES","ca_ES","ca_FR","ca_IT"],"cs":["cs_CZ"],"da":["da_DK"],"de":["de_AT","de_BE","de_CH","de_DE","de_LI","de_LU"],"en":["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"],"es":["es_AR","es_BO","es_CL","es_CO","es_CR","es_CU","es_CU","es_DO","es_EC","es_ES","es_GT","es_HN","es_MX","es_NI","es_PA","es_PE","es_PR","es_PY","es_SV","es_US","es_UY","es_VE"],"fr":["fr_BE","fr_CA","fr_CH","fr_FR","fr_LU"],"hu":["hu_HU"],"id":["id_ID"],"it":["it_CH","it_IT"],"ja":["ja_JP"],"ko":["ko_KR"],"nb":["nb_NO"],"nl":["nl_AW","nl_AW","nl_BE","nl_NL"],"pl":["pl_PL"],"pt":["pt_BR","pt_PT"],"ru":["ru_RU","ru_UA"],"sv":["sv_FI","sv_SE"],"th":["th_TH"],"tr":["tr_CY","tr_TR"],"uk":["uk_UA"],"vi":["vi_VN","vi_VN"],"zh":["zh_CN","zh_HK","zh_SG","zh_TW"]}
+[05/12/18, 11:04:19:267] info: Setting bg
+[05/12/18, 11:04:19:268] info: Setting cs
+[05/12/18, 11:04:19:268] info: Setting da
+[05/12/18, 11:04:19:268] info: Setting hu
+[05/12/18, 11:04:19:268] info: Setting id
+[05/12/18, 11:04:19:268] info: Setting ja
+[05/12/18, 11:04:19:268] info: Setting ko
+[05/12/18, 11:04:19:268] info: Setting nb
+[05/12/18, 11:04:19:268] info: Setting pl
+[05/12/18, 11:04:19:268] info: Setting th
+[05/12/18, 11:04:19:268] info: Setting uk
+[05/12/18, 11:04:19:268] info: Result: {"bg":"bg-BG","cs":"cs-CZ","da":"da-DK","hu":"hu-HU","id":"id-ID","ja":"ja-JP","ko":"ko-KR","nb":"nb-NO","pl":"pl-PL","th":"th-TH","uk":"uk-UA","en":"en-US"}
+[05/12/18, 11:04:19:270] info: Requesting to load en-US, alternatives are ["en-US","en-US","en-US"]
+[05/12/18, 11:04:19:271] info: Loading dictionary for language en-US
+[05/12/18, 11:04:19:273] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 11:04:19:278] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 11:04:19:278] info: Creating node-spellchecker instance
+[05/12/18, 11:04:19:279] info: Actually installing spell check provider to Electron
+[05/12/18, 11:04:19:941] info: Loading dictionary for language en-US
+[05/12/18, 11:04:19:941] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 11:04:19:942] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 11:04:20:592] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    208,
+    81
+  ],
+  "size": [
+    1024,
+    768
+  ]
+}
+[05/12/18, 11:04:20:607] info: Unloading spellchecker
+[05/12/18, 11:04:20:609] info: Restoring spellchecker
+[05/12/18, 11:04:20:610] info: Loading dictionary for language en-US
+[05/12/18, 11:04:20:610] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 11:04:20:650] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 11:04:20:650] info: Creating node-spellchecker instance
+[05/12/18, 11:04:22:297] info: Store: SELECT_CHANNEL C9F21EML6
+[05/12/18, 11:04:24:261] info: Loading dictionary for language en-US
+[05/12/18, 11:04:24:261] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 11:04:24:262] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 11:04:28:348] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/12/18, 11:04:28:360] info: Loading dictionary for language en-US
+[05/12/18, 11:04:28:360] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 11:04:28:361] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 11:04:29:683] info: Unloading spellchecker
+[05/12/18, 11:04:29:686] info: Unloading spellchecker
+[05/12/18, 11:04:29:699] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:29:699] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:41:06:109] error: May-12 14:41:06.108 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/12/18, 14:41:46:335] error: May-12 14:41:46.335 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 14:42:26:600] error: May-12 14:42:26.600 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 14:43:06:825] error: May-12 14:43:06.825 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 14:48:48:384] error: May-12 14:48:48.384 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 14:49:18:390] error: May-12 14:49:18.390 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 14:49:31:935] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:49:32:560] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:49:51:748] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 14:52:10:702] info: Restoring spellchecker
+[05/12/18, 14:52:10:703] info: Loading dictionary for language en-US
+[05/12/18, 14:52:10:704] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 14:52:10:707] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:52:10:736] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:52:10:738] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 14:52:10:738] info: Creating node-spellchecker instance
+[05/12/18, 14:52:11:199] info: Unloading spellchecker
+[05/12/18, 14:52:11:200] info: Unloading spellchecker
+[05/12/18, 14:52:11:215] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:52:11:215] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:52:46:647] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:52:47:102] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:29:05:136] info: Restoring spellchecker
+[05/12/18, 15:29:05:136] info: Loading dictionary for language en-US
+[05/12/18, 15:29:05:136] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 15:29:05:138] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:29:05:139] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:29:05:160] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 15:29:05:160] info: Creating node-spellchecker instance
+[05/12/18, 15:29:17:093] info: Unloading spellchecker
+[05/12/18, 15:29:17:096] info: Unloading spellchecker
+[05/12/18, 15:29:17:148] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:29:17:149] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:08:076] info: Restoring spellchecker
+[05/12/18, 15:44:08:077] info: Loading dictionary for language en-US
+[05/12/18, 15:44:08:077] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 15:44:08:078] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:08:105] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:08:119] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 15:44:08:120] info: Creating node-spellchecker instance
+[05/12/18, 15:44:26:065] info: Unloading spellchecker
+[05/12/18, 15:44:26:067] info: Unloading spellchecker
+[05/12/18, 15:44:26:074] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:26:074] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:26:894] info: Restoring spellchecker
+[05/12/18, 15:44:26:894] info: Loading dictionary for language en-US
+[05/12/18, 15:44:26:894] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 15:44:26:920] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:26:921] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:26:923] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 15:44:26:923] info: Creating node-spellchecker instance
+[05/12/18, 15:45:49:143] warn: SpellChecker::updateDetectedLanguage: cld could not detect language correctly, empty result returned
+[05/12/18, 15:45:57:696] info: Unloading spellchecker
+[05/12/18, 15:45:57:699] info: Unloading spellchecker
+[05/12/18, 15:45:57:718] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:45:57:718] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:50:29:696] info: Restoring spellchecker
+[05/12/18, 15:50:29:697] info: Loading dictionary for language en-US
+[05/12/18, 15:50:29:697] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 15:50:29:737] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:50:29:739] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:50:29:741] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 15:50:29:741] info: Creating node-spellchecker instance
+[05/12/18, 15:50:30:079] info: Unloading spellchecker
+[05/12/18, 15:50:30:083] info: Unloading spellchecker
+[05/12/18, 15:50:30:112] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:50:30:113] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:54:14:933] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:54:14:938] info: Restoring spellchecker
+[05/12/18, 15:54:14:938] info: Loading dictionary for language en-US
+[05/12/18, 15:54:14:938] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 15:54:14:940] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:54:14:966] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 15:54:14:966] info: Creating node-spellchecker instance
+[05/12/18, 15:54:17:465] info: Store: SELECT_CHANNEL C9F21EML6
+[05/12/18, 15:54:18:646] info: Unloading spellchecker
+[05/12/18, 15:54:18:648] info: Unloading spellchecker
+[05/12/18, 15:54:18:672] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:54:18:673] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:54:19:627] info: Loading dictionary for language en-US
+[05/12/18, 15:54:19:627] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 15:54:19:628] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 15:54:19:628] info: Creating node-spellchecker instance
+[05/12/18, 15:57:31:198] error: May-12 15:57:31.198 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/12/18, 15:58:01:220] error: May-12 15:58:01.220 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 15:58:31:238] error: May-12 15:58:31.238 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 15:59:01:248] error: May-12 15:59:01.248 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 15:59:53:954] error: May-12 15:59:53.954 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:00:23:965] error: May-12 16:00:23.964 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:01:34:213] error: May-12 16:01:34.213 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:02:04:227] error: May-12 16:02:04.227 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:03:15:791] error: May-12 16:03:15.791 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:03:45:807] error: May-12 16:03:45.807 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:04:32:863] error: May-12 16:04:32.863 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:05:02:881] error: May-12 16:05:02.880 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:06:00:230] error: May-12 16:06:00.230 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:06:30:245] error: May-12 16:06:30.245 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:07:17:694] error: May-12 16:07:17.693 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:07:47:713] error: May-12 16:07:47.713 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:08:55:147] error: May-12 16:08:55.146 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 16:09:25:167] error: May-12 16:09:25.166 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 17:12:24:462] error: May-12 17:12:24.462 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 17:12:54:475] error: May-12 17:12:54.475 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 17:13:24:493] error: May-12 17:13:24.493 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 17:13:54:507] error: May-12 17:13:54.507 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 17:14:40:045] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 18:07:40:467] error: May-12 18:07:40.467 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/12/18, 18:07:42:795] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 18:09:53:984] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/12/18, 18:09:53:984] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/12/18, 18:09:53:994] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "D9ED2JVNY",
+  "content": "[REDACTED]",
+  "id": "DQ4JfBhZN6VZ5mZ",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=D9ED2JVNY&message=1526112593.000096&team=T9F21EKE2",
+  "msg": "1526112593.000096",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/12/18, 18:09:57:485] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "D9ED2JVNY",
+  "messageId": "1526112593.000096",
+  "notificationId": "DQ4JfBhZN6VZ5mZ",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 18:09:57:487] info: Store: SELECT_TEAM T9F21EKE2
+[05/12/18, 18:09:57:524] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:09:57:526] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/12/18, 18:09:57:774] info: Loading dictionary for language en-US
+[05/12/18, 18:09:57:775] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 18:09:57:775] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 18:09:58:763] info: Restoring spellchecker
+[05/12/18, 18:09:58:764] info: Loading dictionary for language en-US
+[05/12/18, 18:09:58:764] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 18:09:58:767] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:09:58:772] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:09:58:774] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:09:58:775] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 18:12:29:138] info: Unloading spellchecker
+[05/12/18, 18:12:29:141] info: Unloading spellchecker
+[05/12/18, 18:12:29:156] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:156] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:723] info: Restoring spellchecker
+[05/12/18, 18:12:29:723] info: Loading dictionary for language en-US
+[05/12/18, 18:12:29:723] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 18:12:29:737] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:738] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:739] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 18:12:29:739] info: Creating node-spellchecker instance
+[05/12/18, 18:12:29:850] info: Unloading spellchecker
+[05/12/18, 18:12:29:852] info: Unloading spellchecker
+[05/12/18, 18:12:29:867] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:867] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:10:27:669] info: Restoring spellchecker
+[05/12/18, 19:10:27:670] info: Loading dictionary for language en-US
+[05/12/18, 19:10:27:670] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:10:27:673] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:10:27:718] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:10:27:721] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:10:27:721] info: Creating node-spellchecker instance
+[05/12/18, 19:10:29:509] info: Store: SELECT_CHANNEL C9F21EML6
+[05/12/18, 19:10:29:802] info: Loading dictionary for language en-US
+[05/12/18, 19:10:29:802] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:10:29:811] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:10:48:173] info: SpellChecker::updateDetectedLanguage: language has changed from 'und' to 'en'
+{
+  "language": "en",
+  "probability": 0.9999904632568359,
+  "is_reliable": true,
+  "proportion": 1
+}
+[05/12/18, 19:10:48:173] info: SpellChecker::updateDetectedLanguage: detected language is distinct to current, push values
+[05/12/18, 19:11:44:067] info: Unloading spellchecker
+[05/12/18, 19:11:44:068] info: Unloading spellchecker
+[05/12/18, 19:11:44:077] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:44:077] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:46:778] info: Restoring spellchecker
+[05/12/18, 19:11:46:779] info: Loading dictionary for language en-US
+[05/12/18, 19:11:46:780] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:11:46:782] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:46:815] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:46:816] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:11:46:816] info: Creating node-spellchecker instance
+[05/12/18, 19:11:52:281] info: Unloading spellchecker
+[05/12/18, 19:11:52:283] info: Unloading spellchecker
+[05/12/18, 19:11:52:302] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:52:302] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:54:334] info: Restoring spellchecker
+[05/12/18, 19:11:54:335] info: Loading dictionary for language en-US
+[05/12/18, 19:11:54:335] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:11:54:337] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:54:370] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:54:372] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:11:54:372] info: Creating node-spellchecker instance
+[05/12/18, 19:11:58:431] info: Unloading spellchecker
+[05/12/18, 19:11:58:432] info: Unloading spellchecker
+[05/12/18, 19:11:58:442] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:58:443] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:43:722] info: Restoring spellchecker
+[05/12/18, 19:12:43:723] info: Loading dictionary for language en-US
+[05/12/18, 19:12:43:723] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:12:43:724] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:43:745] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:43:747] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:12:43:747] info: Creating node-spellchecker instance
+[05/12/18, 19:12:45:036] info: Unloading spellchecker
+[05/12/18, 19:12:45:039] info: Unloading spellchecker
+[05/12/18, 19:12:45:050] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:45:056] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:46:542] info: Restoring spellchecker
+[05/12/18, 19:12:46:542] info: Loading dictionary for language en-US
+[05/12/18, 19:12:46:542] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:12:46:543] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:46:544] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:46:563] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:12:46:563] info: Creating node-spellchecker instance
+[05/12/18, 19:12:46:762] info: Unloading spellchecker
+[05/12/18, 19:12:46:764] info: Unloading spellchecker
+[05/12/18, 19:12:46:764] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:46:764] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:17:31:986] info: Restoring spellchecker
+[05/12/18, 19:17:31:986] info: Loading dictionary for language en-US
+[05/12/18, 19:17:31:986] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:17:31:988] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:17:31:988] info: Creating node-spellchecker instance
+[05/12/18, 19:17:31:989] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:17:31:990] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:17:34:349] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/12/18, 19:17:34:608] info: Loading dictionary for language en-US
+[05/12/18, 19:17:34:608] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:17:34:610] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:17:58:139] info: Unloading spellchecker
+[05/12/18, 19:17:58:140] info: Unloading spellchecker
+[05/12/18, 19:17:58:151] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:17:58:151] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:19:533] info: Restoring spellchecker
+[05/12/18, 19:18:19:533] info: Loading dictionary for language en-US
+[05/12/18, 19:18:19:534] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:18:19:537] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:19:589] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:19:590] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:18:19:591] info: Creating node-spellchecker instance
+[05/12/18, 19:18:19:730] info: Unloading spellchecker
+[05/12/18, 19:18:19:732] info: Unloading spellchecker
+[05/12/18, 19:18:19:749] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:19:750] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:20:139] info: Restoring spellchecker
+[05/12/18, 19:18:20:140] info: Loading dictionary for language en-US
+[05/12/18, 19:18:20:140] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:18:20:141] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:20:142] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:20:153] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:18:20:153] info: Creating node-spellchecker instance
+[05/12/18, 19:18:20:324] info: Unloading spellchecker
+[05/12/18, 19:18:20:325] info: Unloading spellchecker
+[05/12/18, 19:18:20:326] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:20:326] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:39:650] info: Restoring spellchecker
+[05/12/18, 19:18:39:650] info: Loading dictionary for language en-US
+[05/12/18, 19:18:39:650] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:18:39:651] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:39:687] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:39:688] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:18:39:688] info: Creating node-spellchecker instance
+[05/12/18, 19:18:48:776] info: Unloading spellchecker
+[05/12/18, 19:18:48:777] info: Unloading spellchecker
+[05/12/18, 19:18:48:793] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:48:794] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:49:870] info: Restoring spellchecker
+[05/12/18, 19:18:49:870] info: Loading dictionary for language en-US
+[05/12/18, 19:18:49:871] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/12/18, 19:18:49:873] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:49:920] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:49:921] info: Setting current spellchecker to en-US, requested language was en-US
+[05/12/18, 19:18:49:921] info: Creating node-spellchecker instance
+[05/12/18, 19:19:24:208] info: Unloading spellchecker
+[05/12/18, 19:19:24:210] info: Unloading spellchecker
+[05/12/18, 19:19:24:229] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:19:24:230] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:37:03:477] error: May-12 19:37:03.477 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/12/18, 20:05:46:728] error: May-12 20:05:46.727 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/12/18, 20:06:16:760] error: May-12 20:06:16.760 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 20:06:46:777] error: May-12 20:06:46.776 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 20:07:17:555] error: May-12 20:07:17.555 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 20:07:47:575] error: May-12 20:07:47.575 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 20:08:17:802] error: May-12 20:08:17.801 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 20:54:19:566] error: May-12 20:54:19.566 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 20:54:50:695] error: May-12 20:54:50.694 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 21:45:43:290] error: May-12 21:45:43.290 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 21:46:13:320] error: May-12 21:46:13.320 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 21:46:43:330] error: May-12 21:46:43.330 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/12/18, 21:47:02:052] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/13/18, 01:03:39:047] error: May-13 01:03:39.470 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/13/18, 01:04:09:116] error: May-13 01:04:09.116 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/13/18, 01:04:11:119] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/13/18, 17:06:55:578] error: May-13 17:06:55.578 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/13/18, 17:06:57:927] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/14/18, 19:26:38:464] error: May-14 19:26:38.464 SOCKET-MANAGER (T9F21EKE2) Closing socket because #4108: unexpected socket closure
+[05/14/18, 19:27:08:485] error: May-14 19:27:08.485 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/14/18, 19:27:38:498] error: May-14 19:27:38.497 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/14/18, 19:28:08:513] error: May-14 19:28:08.513 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/14/18, 19:28:59:249] error: May-14 19:28:59.249 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/14/18, 19:29:32:808] error: May-14 19:29:32.807 SOCKET-MANAGER (T9F21EKE2) Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up

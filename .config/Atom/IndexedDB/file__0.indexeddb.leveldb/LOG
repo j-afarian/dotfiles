@@ -1,0 +1,6 @@
+2018/10/12-15:44:44.876 26151 Reusing MANIFEST /home/bella/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/10/12-15:44:44.876 26151 Recovering log #97
+2018/10/12-15:44:44.884 26151 Reusing old log /home/bella/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000097.log 
+2018/10/12-16:31:03.743 23523 Level-0 table #101: started
+2018/10/12-16:31:03.768 23523 Level-0 table #101: 1873969 bytes OK
+2018/10/12-16:31:03.777 23523 Delete type=0 #97

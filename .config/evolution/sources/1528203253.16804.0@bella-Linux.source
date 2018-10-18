@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=jenna@afarian.me
+Enabled=true
+Parent=1528203254.16804.2@bella-Linux
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+SignImip=true
+TemplatesFolder=folder://local/Templates
+
+[Mail Identity]
+Address=jenna@afarian.me
+Name=Jenna Afarian
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=1528203254.16804.10@bella-Linux
+RepliesToOriginFolder=false

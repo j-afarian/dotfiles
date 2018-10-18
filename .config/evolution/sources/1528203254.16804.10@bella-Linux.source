@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=jenna@afarian.me
+Enabled=true
+Parent=1528203254.16804.2@bella-Linux
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=gator3200.hostgator.com
+Method=PLAIN
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=jenna@afarian.me
+CredentialName=
+
+[Security]
+Method=ssl-on-alternate-port

@@ -1,0 +1,53 @@
+[Data Source]
+DisplayName=jenna@afarian.me
+Enabled=true
+Parent=
+
+[Offline]
+StaySynchronized=false
+
+[Refresh]
+Enabled=true
+IntervalMinutes=10
+
+[Authentication]
+Host=gator3200.hostgator.com
+Method=none
+Port=993
+ProxyUid=system-proxy
+RememberPassword=true
+User=jenna@afarian.me
+CredentialName=
+
+[Mail Account]
+BackendName=imapx
+IdentityUid=1528203253.16804.0@bella-Linux
+ArchiveFolder=
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Imapx Backend]
+FilterInbox=true
+StoreChangesInterval=3
+BatchFetchCount=500
+CheckAll=true
+CheckSubscribed=false
+ConcurrentConnections=3
+FetchOrder=ascending
+FilterAll=false
+FilterJunk=false
+FilterJunkInbox=false
+Namespace=
+RealJunkPath=
+RealTrashPath=
+ShellCommand=ssh -C -l %u %h exec /usr/sbin/imapd
+UseIdle=false
+UseNamespace=false
+UseQresync=false
+UseRealJunkPath=false
+UseRealTrashPath=false
+UseShellCommand=false
+UseSubscriptions=false
+IgnoreOtherUsersNamespace=false
+IgnoreSharedFoldersNamespace=false

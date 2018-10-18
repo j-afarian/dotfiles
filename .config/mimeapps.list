@@ -1,0 +1,28 @@
+[Default Applications]
+x-scheme-handler/http=chromium-browser.desktop
+x-scheme-handler/https=chromium-browser.desktop
+text/html=chromium-browser.desktop
+application/x-extension-htm=chromium-browser.desktop
+application/x-extension-html=chromium-browser.desktop
+application/x-extension-shtml=chromium-browser.desktop
+application/xhtml+xml=chromium-browser.desktop
+application/x-extension-xht=chromium-browser.desktop
+text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;multipart/related;application/x-mimearchive;message/rfc822;=chromium-browser.desktop
+inode/directory=org.pantheon.files.desktop
+x-scheme-handler/trash=org.pantheon.files.desktop
+text/plain=firefox.desktop
+x-scheme-handler/discord-431872723946438658=discord-431872723946438658.desktop
+
+[Added Associations]
+x-scheme-handler/http=chromium-browser.desktop;
+x-scheme-handler/https=chromium-browser.desktop;
+text/html=chromium-browser.desktop;
+application/x-extension-htm=chromium-browser.desktop;
+application/x-extension-html=chromium-browser.desktop;
+application/x-extension-shtml=chromium-browser.desktop;
+application/xhtml+xml=chromium-browser.desktop;
+application/x-extension-xht=chromium-browser.desktop;
+text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;multipart/related;application/x-mimearchive;message/rfc822;=chromium-browser.desktop;
+inode/directory=atom.desktop;org.pantheon.files.desktop;
+x-scheme-handler/trash=org.pantheon.files.desktop;
+text/plain=firefox.desktop;

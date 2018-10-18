@@ -1,0 +1,227 @@
+[05/12/18, 11:04:10:562] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[05/12/18, 11:04:10:563] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 05/12/18, 11:04:10:560      ║
+[05/12/18, 11:04:10:563] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[05/12/18, 11:04:10:766] info: Initializing local storage instance at path: /home/bella/.config/Slack/local-settings.json
+[05/12/18, 11:04:10:883] info: NetworkStatus: Waiting for network online…
+[05/12/18, 11:04:11:551] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[05/12/18, 11:04:11:956] info: Store: SET_NETWORK_STATUS online
+[05/12/18, 11:04:16:857] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 11:04:16:861] info: Store: MAIN_WINDOW_SHOWN
+[05/12/18, 11:04:16:883] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:16:884] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:16:889] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:17:250] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 11:04:17:880] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    58
+  ],
+  "size": [
+    1440,
+    842
+  ]
+}
+[05/12/18, 11:04:17:916] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/12/18, 11:04:17:918] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 11:04:17:920] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/12/18, 11:04:17:940] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9F21EKE2",
+  "theme": {
+    "active_item": "#2D9EE0",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#60D156",
+    "badge": "#DC5960",
+    "column_bg": "#F8F8FA",
+    "hover_item": "#FFFFFF",
+    "menu_bg": "#F8F8FA",
+    "text_color": "#383F45"
+  }
+}
+[05/12/18, 11:04:18:196] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:18:535] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 11:04:18:548] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 11:04:18:749] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:18:749] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:19:191] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:19:194] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:20:592] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    208,
+    81
+  ],
+  "size": [
+    1024,
+    768
+  ]
+}
+[05/12/18, 11:04:22:240] info: Store: SELECT_CHANNEL C9F21EML6
+[05/12/18, 11:04:28:263] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/12/18, 11:04:29:683] info: Store: SET_FULL_SCREEN
+[05/12/18, 11:04:29:685] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:49:31:935] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:49:32:560] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:49:51:702] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 14:52:10:699] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:52:10:706] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:52:11:187] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:52:11:190] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:52:46:647] info: Store: SET_FULL_SCREEN
+[05/12/18, 14:52:47:102] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:29:05:133] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:29:05:137] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:29:17:098] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:29:17:100] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:08:052] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:08:062] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:26:074] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:26:075] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:26:894] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:44:26:898] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:45:57:697] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:45:57:700] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:50:29:694] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:50:29:698] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:50:30:080] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:50:30:083] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:54:14:908] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:54:14:914] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:54:17:371] info: Store: SELECT_CHANNEL C9F21EML6
+[05/12/18, 15:54:18:648] info: Store: SET_FULL_SCREEN
+[05/12/18, 15:54:18:652] info: Store: SET_FULL_SCREEN
+[05/12/18, 17:14:39:990] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 18:07:42:764] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 18:09:53:990] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FF94095-g154b7532efc-512",
+  "channel": "D9ED2JVNY",
+  "content": "[REDACTED]",
+  "id": "DQ4JfBhZN6VZ5mZ",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=D9ED2JVNY&message=1526112593.000096&team=T9F21EKE2",
+  "msg": "1526112593.000096",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/12/18, 18:09:57:485] info: Store: CLICK_NOTIFICATION
+{
+  "channel": "D9ED2JVNY",
+  "messageId": "1526112593.000096",
+  "notificationId": "DQ4JfBhZN6VZ5mZ",
+  "teamId": "T9F21EKE2"
+}
+[05/12/18, 18:09:57:487] info: Store: SELECT_TEAM T9F21EKE2
+[05/12/18, 18:09:57:495] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:09:57:497] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/12/18, 18:09:58:759] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:09:58:766] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:09:58:767] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:136] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:139] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:722] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:723] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:851] info: Store: SET_FULL_SCREEN
+[05/12/18, 18:12:29:853] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:10:27:667] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:10:27:675] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:10:29:426] info: Store: SELECT_CHANNEL C9F21EML6
+[05/12/18, 19:11:44:054] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:44:058] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:46:776] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:46:783] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:52:265] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:52:266] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:54:330] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:54:336] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:58:420] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:11:58:423] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:43:719] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:43:725] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:45:036] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:45:039] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:46:534] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:46:535] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:46:752] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:12:46:753] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:17:31:990] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:17:31:990] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:17:34:258] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/12/18, 19:17:58:126] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:17:58:128] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:19:529] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:19:535] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:19:727] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:19:730] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:20:124] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:20:126] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:20:315] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:20:317] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:39:648] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:39:655] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:48:767] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:48:769] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:49:866] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:18:49:876] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:19:24:206] info: Store: SET_FULL_SCREEN
+[05/12/18, 19:19:24:209] info: Store: SET_FULL_SCREEN
+[05/12/18, 21:47:02:016] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/13/18, 01:04:11:093] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/13/18, 17:06:57:880] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}

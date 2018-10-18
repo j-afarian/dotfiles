@@ -1,0 +1,576 @@
+[05/03/18, 14:16:41:176] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[05/03/18, 14:16:41:177] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 05/03/18, 14:16:41:173      ║
+[05/03/18, 14:16:41:177] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[05/03/18, 14:16:41:250] info: Initializing local storage instance at path: /home/bella/.config/Slack/local-settings.json
+[05/03/18, 14:16:41:563] info: cld3::loadModule: loading cld3 module
+[05/03/18, 14:16:41:583] info: cld3Loader::loadModule: running environment is NODE
+[05/03/18, 14:16:41:583] info: cld3Loader::loadModule: constructed module object for runtime
+[05/03/18, 14:16:41:707] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/03/18, 14:16:41:708] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/03/18, 14:16:41:711] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/03/18, 14:16:41:711] info: SSBIntegration: Main window preload script loaded 784.191617
+[05/03/18, 14:16:45:001] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/03/18, 14:16:45:004] info: Store: MAIN_WINDOW_SHOWN
+[05/03/18, 14:16:45:007] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:16:45:007] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:16:45:011] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:16:45:015] info: Store: SELECT_CHANNEL C9F21EML6
+[05/03/18, 14:16:45:015] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[05/03/18, 14:16:45:016] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/03/18, 14:16:45:019] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9F21EKE2"
+}
+[05/03/18, 14:16:45:186] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9F21EKE2",
+  "theme": {
+    "active_item": "#2D9EE0",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#60D156",
+    "badge": "#DC5960",
+    "column_bg": "#F8F8FA",
+    "hover_item": "#FFFFFF",
+    "menu_bg": "#F8F8FA",
+    "text_color": "#383F45"
+  }
+}
+[05/03/18, 14:16:45:192] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    58
+  ],
+  "size": [
+    1440,
+    842
+  ]
+}
+[05/03/18, 14:16:46:367] info: postLoadTaskSetup: Desktop client fully loaded
+{
+  "loadedTime": 9452.549339
+}
+[05/03/18, 14:16:46:484] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/03/18, 14:16:46:485] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T9F21EKE2"
+}
+[05/03/18, 14:16:46:909] info: Raw Locale list: ["bg_BG.utf8","C","ca_AD.utf8","ca_ES.utf8","ca_ES.utf8@valencia","ca_FR.utf8","ca_IT.utf8","cs_CZ.utf8","C.UTF-8","da_DK.utf8","de_AT.utf8","de_BE.utf8","de_CH.utf8","de_DE.utf8","de_LI.utf8","de_LU.utf8","en_AG","en_AG.utf8","en_AU.utf8","en_BW.utf8","en_CA.utf8","en_DK.utf8","en_GB.utf8","en_HK.utf8","en_IE.utf8","en_IN","en_IN.utf8","en_NG","en_NG.utf8","en_NZ.utf8","en_PH.utf8","en_SG.utf8","en_US.utf8","en_ZA.utf8","en_ZM","en_ZM.utf8","en_ZW.utf8","es_AR.utf8","es_BO.utf8","es_CL.utf8","es_CO.utf8","es_CR.utf8","es_CU","es_CU.utf8","es_DO.utf8","es_EC.utf8","es_ES.utf8","es_GT.utf8","es_HN.utf8","es_MX.utf8","es_NI.utf8","es_PA.utf8","es_PE.utf8","es_PR.utf8","es_PY.utf8","es_SV.utf8","es_US.utf8","es_UY.utf8","es_VE.utf8","fr_BE.utf8","fr_CA.utf8","fr_CH.utf8","fr_FR.utf8","fr_LU.utf8","hu_HU.utf8","id_ID.utf8","it_CH.utf8","it_IT.utf8","ja_JP.utf8","ko_KR.utf8","nb_NO.utf8","nl_AW","nl_AW.utf8","nl_BE.utf8","nl_NL.utf8","pl_PL.utf8","POSIX","pt_BR.utf8","pt_PT.utf8","ru_RU.utf8","ru_UA.utf8","sv_FI.utf8","sv_SE.utf8","th_TH.utf8","tr_CY.utf8","tr_TR.utf8","uk_UA.utf8","vi_VN","vi_VN.utf8","zh_CN.utf8","zh_HK.utf8","zh_SG.utf8","zh_TW.utf8",""]
+[05/03/18, 14:16:46:909] info: Filtered Locale list: ["bg_BG","ca_AD","ca_ES","ca_ES","ca_FR","ca_IT","cs_CZ","da_DK","de_AT","de_BE","de_CH","de_DE","de_LI","de_LU","en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW","es_AR","es_BO","es_CL","es_CO","es_CR","es_CU","es_CU","es_DO","es_EC","es_ES","es_GT","es_HN","es_MX","es_NI","es_PA","es_PE","es_PR","es_PY","es_SV","es_US","es_UY","es_VE","fr_BE","fr_CA","fr_CH","fr_FR","fr_LU","hu_HU","id_ID","it_CH","it_IT","ja_JP","ko_KR","nb_NO","nl_AW","nl_AW","nl_BE","nl_NL","pl_PL","pt_BR","pt_PT","ru_RU","ru_UA","sv_FI","sv_SE","th_TH","tr_CY","tr_TR","uk_UA","vi_VN","vi_VN","zh_CN","zh_HK","zh_SG","zh_TW"]
+[05/03/18, 14:16:46:909] info: Counts: {"bg":["bg_BG"],"ca":["ca_AD","ca_ES","ca_ES","ca_FR","ca_IT"],"cs":["cs_CZ"],"da":["da_DK"],"de":["de_AT","de_BE","de_CH","de_DE","de_LI","de_LU"],"en":["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"],"es":["es_AR","es_BO","es_CL","es_CO","es_CR","es_CU","es_CU","es_DO","es_EC","es_ES","es_GT","es_HN","es_MX","es_NI","es_PA","es_PE","es_PR","es_PY","es_SV","es_US","es_UY","es_VE"],"fr":["fr_BE","fr_CA","fr_CH","fr_FR","fr_LU"],"hu":["hu_HU"],"id":["id_ID"],"it":["it_CH","it_IT"],"ja":["ja_JP"],"ko":["ko_KR"],"nb":["nb_NO"],"nl":["nl_AW","nl_AW","nl_BE","nl_NL"],"pl":["pl_PL"],"pt":["pt_BR","pt_PT"],"ru":["ru_RU","ru_UA"],"sv":["sv_FI","sv_SE"],"th":["th_TH"],"tr":["tr_CY","tr_TR"],"uk":["uk_UA"],"vi":["vi_VN","vi_VN"],"zh":["zh_CN","zh_HK","zh_SG","zh_TW"]}
+[05/03/18, 14:16:46:909] info: Setting bg
+[05/03/18, 14:16:46:910] info: Setting cs
+[05/03/18, 14:16:46:910] info: Setting da
+[05/03/18, 14:16:46:910] info: Setting hu
+[05/03/18, 14:16:46:910] info: Setting id
+[05/03/18, 14:16:46:910] info: Setting ja
+[05/03/18, 14:16:46:910] info: Setting ko
+[05/03/18, 14:16:46:911] info: Setting nb
+[05/03/18, 14:16:46:911] info: Setting pl
+[05/03/18, 14:16:46:911] info: Setting th
+[05/03/18, 14:16:46:911] info: Setting uk
+[05/03/18, 14:16:46:911] info: Result: {"bg":"bg-BG","cs":"cs-CZ","da":"da-DK","hu":"hu-HU","id":"id-ID","ja":"ja-JP","ko":"ko-KR","nb":"nb-NO","pl":"pl-PL","th":"th-TH","uk":"uk-UA","en":"en-US"}
+[05/03/18, 14:16:46:913] info: Requesting to load en-US, alternatives are ["en-US","en-US","en-US"]
+[05/03/18, 14:16:46:914] info: Loading dictionary for language en-US
+[05/03/18, 14:16:46:914] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:16:46:915] info: Raw Locale list: ["bg_BG.utf8","C","ca_AD.utf8","ca_ES.utf8","ca_ES.utf8@valencia","ca_FR.utf8","ca_IT.utf8","cs_CZ.utf8","C.UTF-8","da_DK.utf8","de_AT.utf8","de_BE.utf8","de_CH.utf8","de_DE.utf8","de_LI.utf8","de_LU.utf8","en_AG","en_AG.utf8","en_AU.utf8","en_BW.utf8","en_CA.utf8","en_DK.utf8","en_GB.utf8","en_HK.utf8","en_IE.utf8","en_IN","en_IN.utf8","en_NG","en_NG.utf8","en_NZ.utf8","en_PH.utf8","en_SG.utf8","en_US.utf8","en_ZA.utf8","en_ZM","en_ZM.utf8","en_ZW.utf8","es_AR.utf8","es_BO.utf8","es_CL.utf8","es_CO.utf8","es_CR.utf8","es_CU","es_CU.utf8","es_DO.utf8","es_EC.utf8","es_ES.utf8","es_GT.utf8","es_HN.utf8","es_MX.utf8","es_NI.utf8","es_PA.utf8","es_PE.utf8","es_PR.utf8","es_PY.utf8","es_SV.utf8","es_US.utf8","es_UY.utf8","es_VE.utf8","fr_BE.utf8","fr_CA.utf8","fr_CH.utf8","fr_FR.utf8","fr_LU.utf8","hu_HU.utf8","id_ID.utf8","it_CH.utf8","it_IT.utf8","ja_JP.utf8","ko_KR.utf8","nb_NO.utf8","nl_AW","nl_AW.utf8","nl_BE.utf8","nl_NL.utf8","pl_PL.utf8","POSIX","pt_BR.utf8","pt_PT.utf8","ru_RU.utf8","ru_UA.utf8","sv_FI.utf8","sv_SE.utf8","th_TH.utf8","tr_CY.utf8","tr_TR.utf8","uk_UA.utf8","vi_VN","vi_VN.utf8","zh_CN.utf8","zh_HK.utf8","zh_SG.utf8","zh_TW.utf8",""]
+[05/03/18, 14:16:46:915] info: Filtered Locale list: ["bg_BG","ca_AD","ca_ES","ca_ES","ca_FR","ca_IT","cs_CZ","da_DK","de_AT","de_BE","de_CH","de_DE","de_LI","de_LU","en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW","es_AR","es_BO","es_CL","es_CO","es_CR","es_CU","es_CU","es_DO","es_EC","es_ES","es_GT","es_HN","es_MX","es_NI","es_PA","es_PE","es_PR","es_PY","es_SV","es_US","es_UY","es_VE","fr_BE","fr_CA","fr_CH","fr_FR","fr_LU","hu_HU","id_ID","it_CH","it_IT","ja_JP","ko_KR","nb_NO","nl_AW","nl_AW","nl_BE","nl_NL","pl_PL","pt_BR","pt_PT","ru_RU","ru_UA","sv_FI","sv_SE","th_TH","tr_CY","tr_TR","uk_UA","vi_VN","vi_VN","zh_CN","zh_HK","zh_SG","zh_TW"]
+[05/03/18, 14:16:46:915] info: Counts: {"bg":["bg_BG"],"ca":["ca_AD","ca_ES","ca_ES","ca_FR","ca_IT"],"cs":["cs_CZ"],"da":["da_DK"],"de":["de_AT","de_BE","de_CH","de_DE","de_LI","de_LU"],"en":["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"],"es":["es_AR","es_BO","es_CL","es_CO","es_CR","es_CU","es_CU","es_DO","es_EC","es_ES","es_GT","es_HN","es_MX","es_NI","es_PA","es_PE","es_PR","es_PY","es_SV","es_US","es_UY","es_VE"],"fr":["fr_BE","fr_CA","fr_CH","fr_FR","fr_LU"],"hu":["hu_HU"],"id":["id_ID"],"it":["it_CH","it_IT"],"ja":["ja_JP"],"ko":["ko_KR"],"nb":["nb_NO"],"nl":["nl_AW","nl_AW","nl_BE","nl_NL"],"pl":["pl_PL"],"pt":["pt_BR","pt_PT"],"ru":["ru_RU","ru_UA"],"sv":["sv_FI","sv_SE"],"th":["th_TH"],"tr":["tr_CY","tr_TR"],"uk":["uk_UA"],"vi":["vi_VN","vi_VN"],"zh":["zh_CN","zh_HK","zh_SG","zh_TW"]}
+[05/03/18, 14:16:46:915] info: Setting bg
+[05/03/18, 14:16:46:915] info: Setting cs
+[05/03/18, 14:16:46:915] info: Setting da
+[05/03/18, 14:16:46:915] info: Setting hu
+[05/03/18, 14:16:46:915] info: Setting id
+[05/03/18, 14:16:46:916] info: Setting ja
+[05/03/18, 14:16:46:916] info: Setting ko
+[05/03/18, 14:16:46:916] info: Setting nb
+[05/03/18, 14:16:46:916] info: Setting pl
+[05/03/18, 14:16:46:916] info: Setting th
+[05/03/18, 14:16:46:916] info: Setting uk
+[05/03/18, 14:16:46:916] info: Result: {"bg":"bg-BG","cs":"cs-CZ","da":"da-DK","hu":"hu-HU","id":"id-ID","ja":"ja-JP","ko":"ko-KR","nb":"nb-NO","pl":"pl-PL","th":"th-TH","uk":"uk-UA","en":"en-US"}
+[05/03/18, 14:16:46:916] info: Requesting to load en-US, alternatives are ["en-US","en-US","en-US"]
+[05/03/18, 14:16:46:916] info: Loading dictionary for language en-US
+[05/03/18, 14:16:46:916] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:16:46:919] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:16:46:919] info: Creating node-spellchecker instance
+[05/03/18, 14:16:46:920] info: Actually installing spell check provider to Electron
+[05/03/18, 14:16:46:920] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:16:48:188] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:17:03:834] info: Unloading spellchecker
+[05/03/18, 14:17:03:836] info: Unloading spellchecker
+[05/03/18, 14:17:03:872] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:17:03:872] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:17:07:647] info: Restoring spellchecker
+[05/03/18, 14:17:07:647] info: Loading dictionary for language en-US
+[05/03/18, 14:17:07:647] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:17:07:671] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:17:07:672] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:17:07:696] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:17:07:696] info: Creating node-spellchecker instance
+[05/03/18, 14:17:15:399] info: Unloading spellchecker
+[05/03/18, 14:17:15:401] info: Unloading spellchecker
+[05/03/18, 14:17:15:420] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:17:15:420] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:18:31:486] info: Restoring spellchecker
+[05/03/18, 14:18:31:487] info: Loading dictionary for language en-US
+[05/03/18, 14:18:31:487] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:18:31:488] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:18:31:489] info: Unloading spellchecker
+[05/03/18, 14:18:31:491] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:18:31:493] info: Creating node-spellchecker instance
+[05/03/18, 14:18:31:518] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:18:31:518] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:18:31:519] info: Unloading spellchecker
+[05/03/18, 14:18:51:838] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:19:00:577] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:19:02:161] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:19:03:614] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:19:21:047] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:52:603] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:53:250] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:53:733] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:53:929] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:54:837] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:55:044] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:55:650] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:55:845] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:57:479] info: Restoring spellchecker
+[05/03/18, 14:21:57:480] info: Loading dictionary for language en-US
+[05/03/18, 14:21:57:480] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:21:57:481] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:57:483] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:21:57:483] info: Creating node-spellchecker instance
+[05/03/18, 14:21:57:523] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:57:525] info: Unloading spellchecker
+[05/03/18, 14:21:57:526] info: Unloading spellchecker
+[05/03/18, 14:21:57:527] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:21:58:898] info: Restoring spellchecker
+[05/03/18, 14:21:58:899] info: Loading dictionary for language en-US
+[05/03/18, 14:21:58:899] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:21:58:903] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:21:58:903] info: Creating node-spellchecker instance
+[05/03/18, 14:21:58:932] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:22:12:603] info: Unloading spellchecker
+[05/03/18, 14:22:12:605] info: Unloading spellchecker
+[05/03/18, 14:22:12:629] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:22:12:632] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:22:53:381] info: Restoring spellchecker
+[05/03/18, 14:22:53:382] info: Loading dictionary for language en-US
+[05/03/18, 14:22:53:382] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:22:53:406] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:22:53:406] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:22:53:408] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:22:53:408] info: Creating node-spellchecker instance
+[05/03/18, 14:22:54:477] info: Unloading spellchecker
+[05/03/18, 14:22:54:515] info: Unloading spellchecker
+[05/03/18, 14:22:54:515] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:22:54:516] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:22:55:713] info: Restoring spellchecker
+[05/03/18, 14:22:55:714] info: Loading dictionary for language en-US
+[05/03/18, 14:22:55:715] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:22:55:720] info: Unloading spellchecker
+[05/03/18, 14:22:55:720] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:22:55:721] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:22:55:721] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:22:55:721] info: Creating node-spellchecker instance
+[05/03/18, 14:22:55:747] info: Unloading spellchecker
+[05/03/18, 14:22:55:748] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:23:02:980] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:23:04:326] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:23:14:458] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:23:59:061] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:23:59:633] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:00:133] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:00:361] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:01:137] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:01:649] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:02:137] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:04:190] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:44:711] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:45:002] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:47:573] info: Store: FOREGROUND_APP
+[05/03/18, 14:24:47:574] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:51:322] info: Restoring spellchecker
+[05/03/18, 14:24:51:323] info: Loading dictionary for language en-US
+[05/03/18, 14:24:51:323] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:24:51:325] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:51:326] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:51:326] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:24:51:358] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:24:51:358] info: Creating node-spellchecker instance
+[05/03/18, 14:25:15:126] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:25:16:056] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    720,
+    58
+  ],
+  "size": [
+    720,
+    842
+  ]
+}
+[05/03/18, 14:25:17:028] info: Unloading spellchecker
+[05/03/18, 14:25:17:030] info: Unloading spellchecker
+[05/03/18, 14:25:17:049] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:25:17:050] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:25:19:169] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:25:21:190] info: Restoring spellchecker
+[05/03/18, 14:25:21:191] info: Loading dictionary for language en-US
+[05/03/18, 14:25:21:191] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:25:21:199] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:25:21:200] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:25:21:200] info: Creating node-spellchecker instance
+[05/03/18, 14:25:22:995] info: Unloading spellchecker
+[05/03/18, 14:25:22:997] info: Unloading spellchecker
+[05/03/18, 14:25:22:999] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:25:25:810] info: Restoring spellchecker
+[05/03/18, 14:25:25:811] info: Loading dictionary for language en-US
+[05/03/18, 14:25:25:812] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:25:25:817] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:25:25:818] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:25:25:819] info: Creating node-spellchecker instance
+[05/03/18, 14:26:01:235] info: Unloading spellchecker
+[05/03/18, 14:26:01:237] info: Unloading spellchecker
+[05/03/18, 14:26:01:237] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:26:22:217] info: Restoring spellchecker
+[05/03/18, 14:26:22:218] info: Loading dictionary for language en-US
+[05/03/18, 14:26:22:218] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:26:22:221] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:26:22:241] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:26:22:241] info: Creating node-spellchecker instance
+[05/03/18, 14:26:24:841] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:26:25:962] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    208,
+    81
+  ],
+  "size": [
+    1024,
+    768
+  ]
+}
+[05/03/18, 14:26:25:983] info: Unloading spellchecker
+[05/03/18, 14:26:25:984] info: Restoring spellchecker
+[05/03/18, 14:26:25:985] info: Loading dictionary for language en-US
+[05/03/18, 14:26:25:985] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:26:26:050] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:26:26:050] info: Creating node-spellchecker instance
+[05/03/18, 14:27:15:110] info: Unloading spellchecker
+[05/03/18, 14:27:15:114] info: Unloading spellchecker
+[05/03/18, 14:27:15:159] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:27:15:160] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:27:16:486] info: Restoring spellchecker
+[05/03/18, 14:27:16:486] info: Loading dictionary for language en-US
+[05/03/18, 14:27:16:487] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:27:16:489] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:27:16:489] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:27:16:492] info: Unloading spellchecker
+[05/03/18, 14:27:16:493] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:27:16:493] info: Creating node-spellchecker instance
+[05/03/18, 14:27:16:495] info: Unloading spellchecker
+[05/03/18, 14:27:16:495] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:27:53:144] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:27:53:495] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:27:54:996] info: Restoring spellchecker
+[05/03/18, 14:27:54:997] info: Loading dictionary for language en-US
+[05/03/18, 14:27:54:998] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:27:55:004] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:27:55:005] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:27:55:005] info: Creating node-spellchecker instance
+[05/03/18, 14:27:57:048] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    720,
+    58
+  ],
+  "size": [
+    720,
+    842
+  ]
+}
+[05/03/18, 14:27:57:052] info: Unloading spellchecker
+[05/03/18, 14:27:57:055] info: Restoring spellchecker
+[05/03/18, 14:27:57:057] info: Loading dictionary for language en-US
+[05/03/18, 14:27:57:057] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:27:57:059] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:27:57:059] info: Creating node-spellchecker instance
+[05/03/18, 14:27:58:167] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:27:58:506] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    208,
+    81
+  ],
+  "size": [
+    1024,
+    768
+  ]
+}
+[05/03/18, 14:27:58:530] info: Unloading spellchecker
+[05/03/18, 14:27:58:531] info: Restoring spellchecker
+[05/03/18, 14:27:58:531] info: Loading dictionary for language en-US
+[05/03/18, 14:27:58:531] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:27:58:591] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:27:58:592] info: Creating node-spellchecker instance
+[05/03/18, 14:27:58:668] info: Unloading spellchecker
+[05/03/18, 14:27:58:670] info: Unloading spellchecker
+[05/03/18, 14:27:58:696] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:27:58:697] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:29:07:036] info: Restoring spellchecker
+[05/03/18, 14:29:07:037] info: Loading dictionary for language en-US
+[05/03/18, 14:29:07:037] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:29:07:060] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:29:07:061] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:29:07:063] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:29:07:063] info: Creating node-spellchecker instance
+[05/03/18, 14:29:54:167] info: Unloading spellchecker
+[05/03/18, 14:29:54:169] info: Unloading spellchecker
+[05/03/18, 14:29:54:217] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:29:54:218] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:30:39:378] info: Restoring spellchecker
+[05/03/18, 14:30:39:378] info: Loading dictionary for language en-US
+[05/03/18, 14:30:39:378] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:30:39:401] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:30:39:401] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:30:39:403] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:30:39:404] info: Creating node-spellchecker instance
+[05/03/18, 14:31:33:238] info: Unloading spellchecker
+[05/03/18, 14:31:33:241] info: Unloading spellchecker
+[05/03/18, 14:31:33:277] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:31:33:278] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:34:51:529] info: Restoring spellchecker
+[05/03/18, 14:34:51:529] info: Loading dictionary for language en-US
+[05/03/18, 14:34:51:529] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:34:51:530] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:34:51:565] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:34:51:569] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:34:51:569] info: Creating node-spellchecker instance
+[05/03/18, 14:34:56:516] info: Unloading spellchecker
+[05/03/18, 14:34:56:519] info: Unloading spellchecker
+[05/03/18, 14:34:56:597] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:34:56:597] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:09:125] info: Restoring spellchecker
+[05/03/18, 14:36:09:126] info: Loading dictionary for language en-US
+[05/03/18, 14:36:09:126] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:36:09:127] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:09:127] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:09:162] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:36:09:163] info: Creating node-spellchecker instance
+[05/03/18, 14:36:12:386] info: Store: SELECT_CHANNEL D9ED2JVNY
+[05/03/18, 14:36:14:615] info: Loading dictionary for language en-US
+[05/03/18, 14:36:14:615] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:36:14:616] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:36:20:595] info: Unloading spellchecker
+[05/03/18, 14:36:20:598] info: Unloading spellchecker
+[05/03/18, 14:36:20:611] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:20:612] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:21:797] info: Restoring spellchecker
+[05/03/18, 14:36:21:798] info: Loading dictionary for language en-US
+[05/03/18, 14:36:21:798] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:36:21:800] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:21:822] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:21:825] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:36:21:825] info: Creating node-spellchecker instance
+[05/03/18, 14:36:33:581] info: Unloading spellchecker
+[05/03/18, 14:36:33:585] info: Unloading spellchecker
+[05/03/18, 14:36:33:615] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:33:615] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:34:378] info: Restoring spellchecker
+[05/03/18, 14:36:34:378] info: Loading dictionary for language en-US
+[05/03/18, 14:36:34:378] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:36:34:380] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:34:380] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:34:397] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:36:34:397] info: Creating node-spellchecker instance
+[05/03/18, 14:36:34:561] info: Unloading spellchecker
+[05/03/18, 14:36:34:563] info: Unloading spellchecker
+[05/03/18, 14:36:34:581] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:36:34:581] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:37:25:720] info: Restoring spellchecker
+[05/03/18, 14:37:25:720] info: Loading dictionary for language en-US
+[05/03/18, 14:37:25:721] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:37:25:722] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:37:25:746] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:37:25:750] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:37:25:750] info: Creating node-spellchecker instance
+[05/03/18, 14:37:28:347] info: Store: SELECT_CHANNEL C9F21EML6
+[05/03/18, 14:37:28:611] info: Loading dictionary for language en-US
+[05/03/18, 14:37:28:611] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:37:28:612] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:37:35:924] info: Unloading spellchecker
+[05/03/18, 14:37:35:925] info: Unloading spellchecker
+[05/03/18, 14:37:35:953] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:37:35:955] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:42:53:904] info: Restoring spellchecker
+[05/03/18, 14:42:53:904] info: Loading dictionary for language en-US
+[05/03/18, 14:42:53:905] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:42:53:916] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:42:53:917] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:42:53:920] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:42:53:921] info: Creating node-spellchecker instance
+[05/03/18, 14:43:01:999] info: Unloading spellchecker
+[05/03/18, 14:43:02:003] info: Unloading spellchecker
+[05/03/18, 14:43:02:021] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:43:02:021] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:43:27:678] info: Restoring spellchecker
+[05/03/18, 14:43:27:679] info: Loading dictionary for language en-US
+[05/03/18, 14:43:27:680] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:43:27:682] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:43:27:697] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:43:27:701] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:43:27:701] info: Creating node-spellchecker instance
+[05/03/18, 14:44:45:903] info: Unloading spellchecker
+[05/03/18, 14:44:45:906] info: Unloading spellchecker
+[05/03/18, 14:44:45:973] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:44:45:973] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:45:04:311] info: Restoring spellchecker
+[05/03/18, 14:45:04:312] info: Loading dictionary for language en-US
+[05/03/18, 14:45:04:312] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 14:45:04:313] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:45:04:356] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:45:04:358] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 14:45:04:359] info: Creating node-spellchecker instance
+[05/03/18, 14:45:08:830] info: Unloading spellchecker
+[05/03/18, 14:45:08:833] info: Unloading spellchecker
+[05/03/18, 14:45:08:906] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:45:08:907] info: Store: SET_FULL_SCREEN
+[05/03/18, 14:55:46:141] error: May-3 14:55:46.140 T9F21EKE2 SOCKET-MANAGER: Closing socket because #4108: unexpected socket closure
+[05/03/18, 14:55:50:113] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9F21EKE2"
+}
+[05/03/18, 15:09:15:414] info: Restoring spellchecker
+[05/03/18, 15:09:15:415] info: Loading dictionary for language en-US
+[05/03/18, 15:09:15:415] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 15:09:15:415] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:09:15:447] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:09:15:462] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 15:09:15:462] info: Creating node-spellchecker instance
+[05/03/18, 15:09:17:853] info: Unloading spellchecker
+[05/03/18, 15:09:17:854] info: Unloading spellchecker
+[05/03/18, 15:09:17:855] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:09:21:317] info: Restoring spellchecker
+[05/03/18, 15:09:21:318] info: Loading dictionary for language en-US
+[05/03/18, 15:09:21:318] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 15:09:21:319] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:09:21:362] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 15:09:21:363] info: Creating node-spellchecker instance
+[05/03/18, 15:09:21:690] info: Unloading spellchecker
+[05/03/18, 15:09:21:728] info: Unloading spellchecker
+[05/03/18, 15:09:21:728] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:10:59:329] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:28:37:453] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/03/18, 15:28:37:453] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[05/03/18, 15:28:37:475] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T9F21EKE2-U9FDDM687-1fcc033a72da-512",
+  "channel": "C9F21EML6",
+  "content": "[REDACTED]",
+  "id": "E8vGFWhPMyPNn2E",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C9F21EML6&message=1525325318.000023&team=T9F21EKE2",
+  "msg": "1525325318.000023",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T9F21EKE2",
+  "title": "[REDACTED]"
+}
+[05/03/18, 15:44:50:239] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:44:50:241] info: Restoring spellchecker
+[05/03/18, 15:44:50:242] info: Loading dictionary for language en-US
+[05/03/18, 15:44:50:242] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 15:44:50:243] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 15:44:50:243] info: Creating node-spellchecker instance
+[05/03/18, 15:44:50:244] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:44:50:331] info: Unloading spellchecker
+[05/03/18, 15:44:50:333] info: Restoring spellchecker
+[05/03/18, 15:44:50:334] info: Loading dictionary for language en-US
+[05/03/18, 15:44:50:335] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 15:44:50:337] info: Unloading spellchecker
+[05/03/18, 15:44:50:338] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:44:50:339] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:44:50:407] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 15:44:50:407] info: Creating node-spellchecker instance
+[05/03/18, 15:45:11:147] info: Store: SELECT_CHANNEL C9E929VPV
+[05/03/18, 15:45:12:348] info: Store: SELECT_CHANNEL C9P070QNL
+[05/03/18, 15:45:13:288] info: Store: SELECT_CHANNEL C9F21EML6
+[05/03/18, 15:45:13:549] info: Loading dictionary for language en-US
+[05/03/18, 15:45:13:550] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 15:45:13:551] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 15:45:14:357] info: Loading dictionary for language en-US
+[05/03/18, 15:45:14:357] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 15:45:14:358] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 15:45:15:150] info: Loading dictionary for language en-US
+[05/03/18, 15:45:15:150] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 15:45:15:151] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 15:45:17:349] info: Unloading spellchecker
+[05/03/18, 15:45:17:351] info: Unloading spellchecker
+[05/03/18, 15:45:17:361] info: Store: SET_FULL_SCREEN
+[05/03/18, 15:45:17:362] info: Store: SET_FULL_SCREEN
+[05/03/18, 16:29:45:835] info: Restoring spellchecker
+[05/03/18, 16:29:45:835] info: Loading dictionary for language en-US
+[05/03/18, 16:29:45:836] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 16:29:45:837] info: Store: SET_FULL_SCREEN
+[05/03/18, 16:29:45:838] info: Store: SET_FULL_SCREEN
+[05/03/18, 16:29:45:871] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 16:29:45:871] info: Creating node-spellchecker instance
+[05/03/18, 16:29:46:370] info: Unloading spellchecker
+[05/03/18, 16:29:46:373] info: Unloading spellchecker
+[05/03/18, 16:29:46:388] info: Store: SET_FULL_SCREEN
+[05/03/18, 16:29:46:388] info: Store: SET_FULL_SCREEN
+[05/03/18, 16:36:35:370] info: Restoring spellchecker
+[05/03/18, 16:36:35:371] info: Loading dictionary for language en-US
+[05/03/18, 16:36:35:371] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 16:36:35:373] info: Store: SET_FULL_SCREEN
+[05/03/18, 16:36:35:374] info: Store: SET_FULL_SCREEN
+[05/03/18, 16:36:35:404] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 16:36:35:404] info: Creating node-spellchecker instance
+[05/03/18, 16:36:42:524] info: Store: SELECT_CHANNEL C9P070QNL
+[05/03/18, 16:36:44:085] info: Store: SELECT_CHANNEL C9F21EML6
+[05/03/18, 16:36:44:331] info: Loading dictionary for language en-US
+[05/03/18, 16:36:44:331] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 16:36:44:332] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 16:36:44:528] info: Loading dictionary for language en-US
+[05/03/18, 16:36:44:528] info: Returning local copy: /home/bella/.config/Slack/dictionaries/en-US.bdic
+[05/03/18, 16:36:44:529] info: Setting current spellchecker to en-US, requested language was en-US
+[05/03/18, 16:37:09:769] info: Unloading spellchecker
+[05/03/18, 16:37:09:770] info: Store: SET_FULL_SCREEN
+[05/03/18, 16:37:09:770] info: Store: SET_FULL_SCREEN
+[05/03/18, 16:37:10:768] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    10,
+    38
+  ],
+  "size": [
+    1440,
+    842
+  ]
+}

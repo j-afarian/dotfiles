@@ -9,16 +9,15 @@ Config and dotfiles for linux.
 - Atom
 - Ulauncher
 - Vim
+- libinputgestures
+- tmux
 
-## First time settings
+## First time setups
 `sudo apt install software-properties-common`
-```
-sudo add-apt-repository ppa:philip.scott/elementary-tweaks
-sudo apt-get update
-sudo apt-get install elementary-tweaks
-```
-```
-sudo add-apt-repository ppa:noobslab/themes
-sudo apt-get update
-sudo apt-get install arc-theme```
 
+### Repositories
+`sudo add-apt-repository ppa:noobslab/themes`
+`sudo apt-get install elementary-tweaks`
+
+### Installs
+`sudo apt-get install arc-theme`

@@ -14,7 +14,8 @@ Config and dotfiles for linux.
 `sudo apt install software-properties-common`
 ```sudo add-apt-repository ppa:philip.scott/elementary-tweaks
 sudo apt-get update
-sudo apt-get install elementary-tweaks```
+sudo apt-get install elementary-tweaks
+```
 ```sudo add-apt-repository ppa:noobslab/themes
 sudo apt-get update
 sudo apt-get install arc-theme```

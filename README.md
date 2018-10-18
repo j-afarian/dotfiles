@@ -12,11 +12,13 @@ Config and dotfiles for linux.
 
 ## First time settings
 `sudo apt install software-properties-common`
-```sudo add-apt-repository ppa:philip.scott/elementary-tweaks
+```
+sudo add-apt-repository ppa:philip.scott/elementary-tweaks
 sudo apt-get update
 sudo apt-get install elementary-tweaks
 ```
-```sudo add-apt-repository ppa:noobslab/themes
+```
+sudo add-apt-repository ppa:noobslab/themes
 sudo apt-get update
 sudo apt-get install arc-theme```
 

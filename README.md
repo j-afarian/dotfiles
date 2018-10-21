@@ -1,6 +1,7 @@
 # dotfiles
 
 Config and dotfiles for linux.
+Reminders of basic applications and repos I like to add to a fresh install.
 
 ## Regular installs
 - Dconf editor
@@ -11,13 +12,17 @@ Config and dotfiles for linux.
 - Vim
 - libinputgestures
 - tmux
+- Wine + Winetricks
+- Firefox
 
 ## First time setups
 `sudo apt install software-properties-common`
 
 ### Repositories
-`sudo add-apt-repository ppa:noobslab/themes`
+`sudo add-apt-repository ppa:noobslab/themes`  
 `sudo apt-get install elementary-tweaks`
 
 ### Installs
-`sudo apt-get install arc-theme`
+`sudo apt-get install elementary-tweaks` 
+`sudo apt-get install gdebi`  
+

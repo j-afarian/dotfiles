@@ -23,6 +23,6 @@ Reminders of basic applications and repos I like to add to a fresh install.
 `sudo apt-get install elementary-tweaks`
 
 ### Installs
-`sudo apt-get install elementary-tweaks` 
-`sudo apt-get install gdebi`  
+`sudo apt-get install elementary-tweaks`   
+`sudo apt-get install gdebi`   
 

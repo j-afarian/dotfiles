@@ -26,3 +26,6 @@ Reminders of basic applications and repos I like to add to a fresh install.
 `sudo apt-get install elementary-tweaks`   
 `sudo apt-get install gdebi`   
 
+### Other stuff
+Swap key bindings
+/usr/share/X11/xkb/symbols/pc
